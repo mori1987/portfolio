@@ -1,0 +1,2644 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-08-30 04:37+0330\n"
+"PO-Revision-Date: 2023-09-25 04:47+0330\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"Last-Translator: \n"
+"Language: fa_IR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPath-2: .\n"
+
+#: includes/admin-ajax-search.php:45 includes/admin-waitlist.php:64
+#: includes/admin-wishlist.php:39
+msgid "Settings"
+msgstr "تنطیمات"
+
+#: includes/admin-ajax-search.php:46 includes/admin-wishlist.php:40
+msgid "Reports"
+msgstr "گزارش ها"
+
+#: includes/admin-ajax-search.php:50
+msgid "Ajax Search Reports"
+msgstr "گزارش جستجو ajax"
+
+#: includes/admin-ajax-search.php:53
+msgid "Ajax Search Settings"
+msgstr "تنظیمات جستجو ajax"
+
+#: includes/admin-ajax-search.php:58
+#: includes/admin-attribute-swatches-settings.php:44
+#: includes/admin-attribute-swatches-settings.php:60
+#: includes/admin-badge.php:17 includes/admin-countdown-timer.php:17
+#: includes/admin-countdown-timer.php:33 includes/admin-countdown-timer.php:110
+#: includes/admin-countdown-timer.php:221 includes/admin-order-bump.php:17
+#: includes/admin-order-bump.php:33 includes/admin-order-bump.php:91
+#: includes/admin-pdp-attributes-gallery.php:27
+#: includes/admin-pdp-gallery.php:24 includes/admin-pdp-triggers.php:16
+#: includes/admin-size-guide.php:16 includes/admin-waitlist.php:164
+#: includes/admin-waitlist.php:205 includes/admin-waitlist.php:226
+#: includes/admin-waitlist.php:247 includes/admin-wishlist.php:53
+msgid "Enable"
+msgstr "فعال کردن"
+
+#: includes/admin-ajax-search.php:58
+msgid "Enable Ajax Search in the main search bar"
+msgstr "فعال کردن جستجو ajax در نوار سرچ اصلی"
+
+#: includes/admin-ajax-search.php:59
+msgid "Placeholder"
+msgstr "فیلد"
+
+#: includes/admin-ajax-search.php:60
+msgid "Display"
+msgstr "نمایش"
+
+#: includes/admin-ajax-search.php:60
+msgid "All contents"
+msgstr "همه محتوا ها"
+
+#: includes/admin-ajax-search.php:60
+msgid "Just products"
+msgstr "فقط محصولات"
+
+#: includes/admin-ajax-search.php:61
+msgid "Tabbed search results"
+msgstr "نتایج جستجوی زبانه دار"
+
+#: includes/admin-ajax-search.php:61
+msgid "Enable search results tabs"
+msgstr "برگه های نتایج جستجو را فعال کنید"
+
+#: includes/admin-ajax-search.php:62
+msgid "Preserve selected tab"
+msgstr "برگه انتخاب شده را حفظ کنید"
+
+#: includes/admin-ajax-search.php:62
+msgid "Enable preserve selected tab on next visit"
+msgstr "فعال کردن حفظ برگه انتخاب شده در بازدید بعدی"
+
+#: includes/admin-ajax-search.php:63
+msgid "&ldquo;Other results&rdquo; text"
+msgstr "‏&ldquo;نتایج دیگر&rdquo; متن"
+
+#: includes/admin-ajax-search.php:64
+msgid "&ldquo;No results&rdquo; text"
+msgstr "‏&ldquo;نتیجه ای وجود ندارد&rdquo; متن"
+
+#: includes/admin-ajax-search.php:65
+msgid "&ldquo;View all&rdquo; text"
+msgstr "‏&ldquo;مشاهده همه &rdquo; متن"
+
+#: includes/admin-ajax-search.php:66
+msgid "Out of stock products"
+msgstr "محصولات موجود نیست"
+
+#: includes/admin-ajax-search.php:66
+msgid "Include"
+msgstr "شامل شدن"
+
+#: includes/admin-ajax-search.php:66 includes/admin-ajax-search.php:68
+msgid "Exclude"
+msgstr "مستثنی شدن"
+
+#: includes/admin-ajax-search.php:67
+msgid "Out of stock results order"
+msgstr "سفارش نتایج خارج از انبار"
+
+#: includes/admin-ajax-search.php:67
+msgid "Display out of stock items at the end of the search results"
+msgstr "اقلام موجود در انبار را در انتهای نتایج جستجو نمایش دهید"
+
+#: includes/admin-ajax-search.php:68
+msgid ""
+"Enter Product/Page/Post ID&rsquo;s to be excluded, separated by a comma."
+msgstr ""
+"شناسه محصول/صفحه/پست را وارد کنید تا حذف شوند و با کاما از هم جدا شوند."
+
+#: includes/admin-ajax-search.php:69
+msgid "Hide variations"
+msgstr "مخفی کردن تغییرات"
+
+#: includes/admin-ajax-search.php:69
+msgid "Hide variations from search suggestions"
+msgstr "مخفی کردن تغییرات از پیشنهادات جستجو"
+
+#: includes/admin-ajax-search.php:70
+msgid "Number of products displayed"
+msgstr "تعداد محصولات نمایش داده شده"
+
+#: includes/admin-ajax-search.php:81
+msgid "Total searches"
+msgstr "کل جستجوها"
+
+#: includes/admin-ajax-search.php:83
+msgid "How many searches have been performed."
+msgstr "چند جستجو انجام شده است."
+
+#: includes/admin-ajax-search.php:86
+msgid "Clickthrough rate"
+msgstr "نرخ کلیک"
+
+#: includes/admin-ajax-search.php:88
+#, php-format
+msgid "The % of searches that resulted in a click."
+msgstr "‏تعداد % از جستجوهایی که منجر به کلیک شد."
+
+#: includes/admin-ajax-search.php:91
+msgid "No result rate"
+msgstr "بدون نرخ نتیجه"
+
+#: includes/admin-ajax-search.php:93
+#, php-format
+msgid "The % of searches that returned no results."
+msgstr "درصد جستجوهایی که هیچ نتیجه ای نداشتند."
+
+#: includes/admin-ajax-search.php:97
+msgid "Most frequent searches"
+msgstr "بیشترین جستجوها"
+
+#: includes/admin-ajax-search.php:98
+msgid "Discover what your users are searching for most."
+msgstr "کشف کنید که کاربران شما بیشتر به دنبال چه چیزی هستند."
+
+#: includes/admin-ajax-search.php:100 includes/admin-ajax-search.php:113
+msgid "Term"
+msgstr "شرایط"
+
+#: includes/admin-ajax-search.php:100 includes/admin-ajax-search.php:113
+#: includes/admin-wishlist.php:87
+msgid "Count"
+msgstr "تعداد"
+
+#: includes/admin-ajax-search.php:106 includes/admin-ajax-search.php:119
+msgid "No terms"
+msgstr "terms ی یافت نشد"
+
+#: includes/admin-ajax-search.php:110
+msgid "Most frequent searches returning 0 results"
+msgstr "بیشترین جستجوها 0 نتیجه را برمی گرداند"
+
+#: includes/admin-ajax-search.php:111
+msgid "Users are searching for these queries and encounter no results."
+msgstr "کاربران در حال جستجوی این پرسش ها هستند و به نتیجه ای نمی رسند."
+
+#: includes/admin-ajax-search.php:122 includes/admin-wishlist.php:111
+msgid "NOTE: Report data is updated every 24 hours."
+msgstr "توجه: داده های گزارش هر 24 ساعت به روز می شوند."
+
+#: includes/admin-ajax-search.php:127 includes/admin-dashboard.php:60
+#: includes/admin-settings.php:388
+msgid "Ajax Search"
+msgstr "جستجو آجاکس"
+
+#: includes/admin-ajax-search.php:128
+msgid ""
+"Research has shown that instant search results are an important feature on "
+"eCommerce sites. It helps users save time and find products faster."
+msgstr ""
+"تحقیقات نشان داده است که نتایج جستجوی فوری یک ویژگی مهم در سایت های تجارت "
+"الکترونیک است. این به کاربران کمک می کند در زمان صرفه جویی کنند و محصولات را "
+"سریعتر پیدا کنند."
+
+#: includes/admin-attribute-swatches-settings.php:40
+#: includes/admin-attribute-swatches-settings.php:147
+#: includes/admin-attribute-swatches.php:17 includes/admin-dashboard.php:129
+#: includes/admin-settings.php:390
+msgid "Attribute Swatches"
+msgstr "سوئیچ بین ویژگی ها"
+
+#: includes/admin-attribute-swatches-settings.php:44
+msgid "Attribute Swatches on Product Pages"
+msgstr "شاخص‌های نمونه در صفحات محصول"
+
+#: includes/admin-attribute-swatches-settings.php:45
+msgid "Display tooltips"
+msgstr "نمایش نکات ابزار"
+
+#: includes/admin-attribute-swatches-settings.php:45
+msgid "Display tooltips on color and image swatches"
+msgstr "نمایش نکات ابزار در نمونه های رنگی و تصویری"
+
+#: includes/admin-attribute-swatches-settings.php:46
+msgid "Button style"
+msgstr "استایل  دکمه"
+
+#: includes/admin-attribute-swatches-settings.php:46
+msgid "Square"
+msgstr "مربع"
+
+#: includes/admin-attribute-swatches-settings.php:46
+msgid "Fluid (better for long labels)"
+msgstr "مایع (برای برچسب های بلند بهتر است)"
+
+#: includes/admin-attribute-swatches-settings.php:52
+msgid "Attribute Swatches on Product Listing Pages"
+msgstr "نمونه‌های مشخصه در صفحات فهرست محصولات"
+
+#: includes/admin-attribute-swatches-settings.php:53
+msgid ""
+"Enabling swatches on product listing pages (i.e. the shop, category screens) "
+"is an opinionated feature. This means that it does things in a certain way, "
+"based upon research from top eCommerce DTC brands. This should only be "
+"activated if your catalog contains primarily"
+msgstr ""
+"فعال کردن نمونه‌ها در صفحات فهرست محصولات (مانند فروشگاه، صفحه‌های دسته‌بندی) "
+"یک ویژگی مورد نظر است. این بدان معنی است که کارها را به روش خاصی انجام می "
+"دهد، بر اساس تحقیقات از برندهای برتر تجارت الکترونیک DTC. این فقط در صورتی "
+"باید فعال شود که کاتالوگ شما در درجه اول شامل باشد"
+
+#: includes/admin-attribute-swatches-settings.php:53
+msgid "variable products"
+msgstr "محصولات متغیر"
+
+#: includes/admin-attribute-swatches-settings.php:53
+msgid ""
+"- i.e. you sell items which all have colors and sizes, and you wish to "
+"display these on the catalog."
+msgstr ""
+"- یعنی شما اقلامی را می فروشید که همگی دارای رنگ و اندازه هستند و می خواهید "
+"آنها را در کاتالوگ نمایش دهید."
+
+#: includes/admin-attribute-swatches-settings.php:55
+msgid ""
+"A maximum of two attributes will appear on product listings pages. Quick add "
+"to cart will only work with two or fewer attributes."
+msgstr ""
+"حداکثر دو ویژگی در صفحات لیست محصولات ظاهر می شود. افزودن سریع به سبد خرید "
+"فقط با دو یا کمتر ویژگی کار می کند."
+
+#: includes/admin-attribute-swatches-settings.php:57
+msgid ""
+"Enabling this will change how your product listing pages will look and "
+"behave on desktop and mobile. If this is not suitable for your store leave "
+"this option"
+msgstr ""
+"فعال کردن این مورد، نحوه ظاهر و رفتار صفحات فهرست محصولات شما را در دسک‌تاپ و "
+"موبایل تغییر می‌دهد. اگر این برای فروشگاه شما مناسب نیست این گزینه را ترک کنید"
+
+#: includes/admin-attribute-swatches-settings.php:57
+msgid "switched off"
+msgstr "خاموش شد"
+
+#: includes/admin-attribute-swatches-settings.php:57
+msgid "or look at an"
+msgstr "یا به یک نگاه کنید"
+
+#: includes/admin-attribute-swatches-settings.php:57
+msgid "alternative swatches plugin"
+msgstr "افزونه نمونه های جایگزین"
+
+#: includes/admin-attribute-swatches-settings.php:57
+msgid "more suitable to your catalog."
+msgstr "برای کاتالوگ شما مناسب تر است."
+
+#: includes/admin-attribute-swatches-settings.php:60
+msgid "Attribute Swatches on Listing Pages"
+msgstr "شاخص‌های نمونه در صفحات فهرست‌بندی"
+
+#: includes/admin-attribute-swatches-settings.php:62
+msgid "Quick add to cart"
+msgstr "افزودن سریع به سبد خرید"
+
+#: includes/admin-attribute-swatches-settings.php:62
+msgid "Activate Quick add to cart"
+msgstr "افزودن سریع به سبد خرید را فعال کنید"
+
+#: includes/admin-attribute-swatches-settings.php:64
+msgid "Quick add to cart label"
+msgstr "افزودن سریع به برچسب سبد خرید"
+
+#: includes/admin-attribute-swatches-settings.php:66
+msgid "More options label"
+msgstr "برچسب گزینه های بیشتر"
+
+#: includes/admin-attribute-swatches-settings.php:70
+msgid "Clear Attribute Swatches cache"
+msgstr "کش Swatches ویژگی ها را پاک کنید"
+
+#: includes/admin-attribute-swatches-settings.php:73
+msgid ""
+"For large product catalogs, displaying swatches on your archive/product "
+"listing pages can cause performance and speed issues especially when if you "
+"manage inventory at the variation/SKU level. To solve this we create a "
+"dedicated swatches cache which means your PLP pages load lightning fast even "
+"for products with lots of variations."
+msgstr ""
+"برای کاتالوگ‌های محصولات بزرگ، نمایش نمونه‌ها در صفحات آرشیو/فهرست محصولات شما "
+"می‌تواند باعث مشکلات عملکرد و سرعت شود، به خصوص زمانی که موجودی را در سطح "
+"تنوع/SKU مدیریت کنید. برای حل این مشکل، ما یک کش نمونه های اختصاصی ایجاد می "
+"کنیم که به این معنی است که صفحات PLP شما حتی برای محصولاتی با تنوع زیاد، به "
+"سرعت بارگذاری می شوند."
+
+#: includes/admin-attribute-swatches-settings.php:74
+msgid ""
+"On larger catalogs this cache can take some time to build when you first "
+"activate this feature. We use the WooCommerce Action Scheduler to ensure "
+"long running cache building tasks can be run in the background over time."
+msgstr ""
+"در کاتالوگ های بزرگتر، زمانی که برای اولین بار این ویژگی را فعال می کنید، "
+"ساخت این حافظه پنهان ممکن است کمی طول بکشد. ما از WooCommerce Action "
+"Scheduler استفاده می کنیم تا اطمینان حاصل کنیم که کارهای طولانی در حال ساخت "
+"کش می توانند در پس زمینه در طول زمان اجرا شوند."
+
+#: includes/admin-attribute-swatches-settings.php:74
+msgid "Learn more"
+msgstr "بیشتر بدانید"
+
+#: includes/admin-attribute-swatches-settings.php:79
+msgid "Total variable products"
+msgstr "مجموع محصولات متغیر"
+
+#: includes/admin-attribute-swatches-settings.php:80
+msgid "Cached variable products"
+msgstr "محصولات متغیر ذخیره شده در حافظه پنهان"
+
+#: includes/admin-attribute-swatches-settings.php:80
+msgid "Total cached variable products"
+msgstr "مجموع محصولات متغیر ذخیره شده در حافظه پنهان"
+
+#: includes/admin-attribute-swatches-settings.php:80
+msgid "Clear and rebuild swatches cache"
+msgstr "کش نمونه ها را پاک و بازسازی کنید"
+
+#: includes/admin-attribute-swatches-settings.php:80
+msgid ""
+"Are you sure you want to clear and rebuild the attribute swatches cache?"
+msgstr ""
+"آیا مطمئن هستید که می خواهید کش نمونه های ویژگی را پاک و دوباره بسازید؟"
+
+#: includes/admin-attribute-swatches-settings.php:80
+msgid "Cancel"
+msgstr "لغو کنید"
+
+#: includes/admin-attribute-swatches-settings.php:80
+msgid ""
+"Are you sure you want to cancel all pending attribute swatches cache events?"
+msgstr ""
+"آیا مطمئنید که می‌خواهید همه رویدادهای حافظه پنهان نمونه‌های ویژگی معلق را لغو "
+"کنید؟"
+
+#: includes/admin-attribute-swatches-settings.php:81
+msgid "Enable logger"
+msgstr "فعال کردن لاگر"
+
+#: includes/admin-attribute-swatches-settings.php:81
+msgid "Enable Attribute Swatches cache rebuilding logger"
+msgstr "ثبت‌کننده بازسازی حافظه پنهان نمونه‌های مشخصه را فعال کنید"
+
+#: includes/admin-attribute-swatches-settings.php:87
+msgid "Starting cache rebuild shortly..."
+msgstr "شروع بازسازی حافظه پنهان به زودی..."
+
+#: includes/admin-attribute-swatches-settings.php:94
+msgid "Cache event being created..."
+msgstr "رویداد حافظه پنهان در حال ایجاد..."
+
+#: includes/admin-attribute-swatches-settings.php:105
+msgid "Processing cache event."
+msgstr "در حال پردازش رویداد حافظه پنهان"
+
+#: includes/admin-attribute-swatches-settings.php:105
+msgid "completed..."
+msgstr "تکمیل شد..."
+
+#: includes/admin-attribute-swatches-settings.php:120
+msgid "Cache rebuild complete"
+msgstr "بازسازی کش کامل شد"
+
+#: includes/admin-attribute-swatches-settings.php:124
+msgid "Last log message"
+msgstr "آخرین پیام ورود"
+
+#: includes/admin-attribute-swatches-settings.php:126
+msgid "The caching process apparently succeeded and is now complete"
+msgstr "فرآیند ذخیره سازی ظاهرا با موفقیت انجام شد و اکنون کامل شده است"
+
+#: includes/admin-attribute-swatches-settings.php:129
+msgid "We couldn't create the cache event. For assistance, copy and paste the"
+msgstr ""
+"ما نتوانستیم رویداد حافظه پنهان را ایجاد کنیم. برای کمک، کپی و جایگذاری کنید"
+
+#: includes/admin-attribute-swatches-settings.php:129
+msgid "WooCommerce System Report"
+msgstr "گزارش سیستم ووکامرس"
+
+#: includes/admin-attribute-swatches-settings.php:129
+msgid "and include it in a"
+msgstr "و آن را در الف بگنجانید"
+
+#: includes/admin-attribute-swatches-settings.php:129
+msgid "support ticket"
+msgstr "تیکت پشتیبانی"
+
+#: includes/admin-attribute-swatches-settings.php:132
+#: includes/admin-attribute-swatches.php:629
+msgid "The caching process has been cancelled."
+msgstr "فرآیند ذخیره سازی لغو شده است."
+
+#: includes/admin-attribute-swatches-settings.php:135
+msgid ""
+"There are some products has not been cached. Please click on above &ldquo;"
+"Clear and rebuild swatches cache&rdquo; button to rebuild all products or "
+"please wait for 15 to 20 minutes to rebuild automatically only missing "
+"products."
+msgstr ""
+"برخی از محصولات هستند که ذخیره نشده است. لطفاً روی &ldquo;پاک کردن و بازسازی "
+"کش نمونه‌ها&rdquo;در بالا کلیک کنید. را فشار دهید تا همه محصولات را بازسازی "
+"کنید یا لطفاً 15 تا 20 دقیقه صبر کنید تا به طور خودکار فقط محصولات از دست "
+"رفته بازسازی شوند."
+
+#: includes/admin-attribute-swatches-settings.php:148
+msgid ""
+"A replacement for the core WooCommerce product variation dropdowns with "
+"color / image / button display options that will significantly improve user "
+"experience on product and listing pages."
+msgstr ""
+"جایگزینی برای کرکره های اصلی تغییرات محصول WooCommerce با گزینه های نمایش "
+"رنگ / تصویر / دکمه که به طور قابل توجهی تجربه کاربر را در صفحات محصول و "
+"فهرست بهبود می بخشد."
+
+#: includes/admin-badge.php:14 includes/admin-badge.php:226
+#: includes/admin-dashboard.php:276 includes/admin-settings.php:394
+msgid "Product Badges"
+msgstr "نشان های محصول"
+
+#: includes/admin-badge.php:17
+msgid "Enable product badges."
+msgstr "نشان های محصول را فعال کنید"
+
+#: includes/admin-badge.php:23
+msgid "Product Badge"
+msgstr "نشان محصول"
+
+#: includes/admin-badge.php:29 includes/admin-badge.php:87
+msgid "Label"
+msgstr "برچسب نمودار"
+
+#: includes/admin-badge.php:33 includes/admin-badge.php:93
+#: includes/admin-badge.php:196
+msgid "Badge text"
+msgstr "متن اتیکت"
+
+#: includes/admin-badge.php:37 includes/admin-badge.php:97
+#: includes/admin-badge.php:200
+msgid "Background color"
+msgstr "رنگ پس‌زمینه"
+
+#: includes/admin-badge.php:41 includes/admin-badge.php:101
+#: includes/admin-badge.php:204
+msgid "Text color"
+msgstr "رنگ متن"
+
+#: includes/admin-badge.php:45 includes/admin-badge.php:105
+#: includes/admin-countdown-timer.php:70 includes/admin-countdown-timer.php:147
+#: includes/admin-inventory-bar.php:37 includes/admin-order-bump.php:53
+#: includes/admin-order-bump.php:118
+msgid "Conditions"
+msgstr "قوانین و مقررات"
+
+#: includes/admin-badge.php:48 includes/admin-badge.php:120
+#: includes/admin-countdown-timer.php:73 includes/admin-countdown-timer.php:159
+#: includes/admin-inventory-bar.php:49 includes/admin-order-bump.php:56
+#: includes/admin-order-bump.php:130
+msgid "All products"
+msgstr "تمام محصولات"
+
+#: includes/admin-badge.php:49 includes/admin-badge.php:60
+#: includes/admin-badge.php:121 includes/admin-countdown-timer.php:74
+#: includes/admin-countdown-timer.php:83 includes/admin-countdown-timer.php:160
+#: includes/admin-inventory-bar.php:50 includes/admin-order-bump.php:57
+#: includes/admin-order-bump.php:131
+msgid "Specific products"
+msgstr "محصولات خاص"
+
+#: includes/admin-badge.php:50 includes/admin-badge.php:122
+#: includes/admin-countdown-timer.php:75 includes/admin-countdown-timer.php:161
+#: includes/admin-inventory-bar.php:51 includes/admin-order-bump.php:58
+#: includes/admin-order-bump.php:132
+msgid "All products apart from"
+msgstr "همه محصولات جدا از"
+
+#: includes/admin-badge.php:51 includes/admin-badge.php:123
+#: includes/admin-countdown-timer.php:76 includes/admin-countdown-timer.php:162
+#: includes/admin-inventory-bar.php:52 includes/admin-order-bump.php:59
+#: includes/admin-order-bump.php:133
+msgid "Specific categories"
+msgstr "دسته بندی های خاص"
+
+#: includes/admin-badge.php:52 includes/admin-badge.php:124
+#: includes/admin-countdown-timer.php:77 includes/admin-countdown-timer.php:163
+#: includes/admin-inventory-bar.php:53 includes/admin-order-bump.php:60
+#: includes/admin-order-bump.php:134
+msgid "All categories apart from"
+msgstr "همه دسته ها جدا از"
+
+#: includes/admin-badge.php:53 includes/admin-badge.php:125
+msgid "Specific tags"
+msgstr "برچسب های خاص"
+
+#: includes/admin-badge.php:54 includes/admin-badge.php:126
+msgid "All tags apart from"
+msgstr "همه برچسب ها جدا از"
+
+#: includes/admin-badge.php:65 includes/admin-badge.php:164
+#: includes/admin-badge.php:212
+msgid "Show on catalog"
+msgstr "نمایش در کاتالوگ"
+
+#: includes/admin-badge.php:69 includes/admin-badge.php:168
+#: includes/admin-badge.php:216
+msgid "Show on product pages"
+msgstr "نمایش در صفحات محصول"
+
+#: includes/admin-badge.php:134 includes/admin-countdown-timer.php:171
+#: includes/admin-inventory-bar.php:61 includes/admin-order-bump.php:142
+msgid "Specific categories:"
+msgstr "دسته بندی های خاص:"
+
+#: includes/admin-badge.php:171 includes/admin-badge.php:182
+msgid "Delete product badge"
+msgstr "حذف نشان محصول"
+
+#: includes/admin-badge.php:183
+msgid "Are you sure you want to delete this product badge?"
+msgstr "آیا مطمئن هستید که می خواهید نشان این محصول را حذف کنید؟"
+
+#: includes/admin-badge.php:184 includes/admin-countdown-timer.php:209
+#: includes/admin-order-bump.php:178
+msgid "This field is required"
+msgstr "این فیلد الزامی است"
+
+#: includes/admin-badge.php:187
+msgid "Add new product badge"
+msgstr "اضافه کردن نشان محصول جدید"
+
+#: includes/admin-badge.php:191
+msgid "New product badge"
+msgstr "نشان محصول جدید"
+
+#: includes/admin-badge.php:197 includes/modules.php:142
+msgid "New!"
+msgstr "جدید!"
+
+#: includes/admin-badge.php:208
+msgid "Days displayed"
+msgstr "روزهای نمایش داده شده است"
+
+#: includes/admin-badge.php:209
+msgid ""
+"Number of days to display the badge from the date the product was added."
+msgstr "تعداد روزهای نمایش نشان از تاریخ اضافه شدن محصول."
+
+#: includes/admin-badge.php:227
+msgid ""
+"Product badges can enhance customer understanding of key product features, "
+"highlight promotions and products with limited-time offers, improve the "
+"click-through rate and many more conversion-boosting benefits."
+msgstr ""
+"نشان‌های محصول می‌توانند درک مشتری از ویژگی‌های کلیدی محصول را افزایش دهند، "
+"تبلیغات و محصولات را با پیشنهادهای زمانی محدود برجسته کنند، نرخ کلیک را "
+"بهبود بخشند و بسیاری از مزایای افزایش دهنده تبدیل را بهبود بخشند."
+
+#: includes/admin-countdown-timer.php:14
+msgid "Countdown Timers"
+msgstr "تایمرهای شمارش معکوس"
+
+#: includes/admin-countdown-timer.php:17
+msgid "Enable countdowns on single product and checkout pages."
+msgstr "شمارش معکوس را در صفحات تک محصول و پرداخت فعال کنید."
+
+#: includes/admin-countdown-timer.php:23
+msgid "Product Countdown"
+msgstr "شمارشگر معکوس محصول"
+
+#: includes/admin-countdown-timer.php:23
+msgid ""
+"The order of the countdowns is important. Drag a countdown to the top to "
+"take precedence."
+msgstr ""
+"ترتیب شمارش معکوس مهم است. شمارش معکوس را به سمت بالا بکشید تا اولویت داشته "
+"باشید."
+
+#: includes/admin-countdown-timer.php:29 includes/admin-countdown-timer.php:37
+#: includes/admin-countdown-timer.php:104
+#: includes/admin-countdown-timer.php:114
+#: includes/admin-countdown-timer.php:225 includes/admin-order-bump.php:29
+#: includes/admin-order-bump.php:41 includes/admin-order-bump.php:85
+#: includes/admin-order-bump.php:106
+msgid "Title"
+msgstr "عنوان"
+
+#: includes/admin-countdown-timer.php:34 includes/admin-countdown-timer.php:111
+msgid "Enable countdown timer on product page"
+msgstr "تایمر شمارش معکوس را در صفحه محصول فعال کنید"
+
+#: includes/admin-countdown-timer.php:38 includes/admin-countdown-timer.php:115
+msgid "e.g. Hurry! This sale ends in"
+msgstr "به عنوان مثال، عجله کن این فروش به پایان می رسد"
+
+#: includes/admin-countdown-timer.php:41 includes/admin-countdown-timer.php:118
+#: includes/admin-countdown-timer.php:233
+msgid "Ends"
+msgstr "به پایان می رسد"
+
+#: includes/admin-countdown-timer.php:43 includes/admin-countdown-timer.php:120
+#: includes/admin-countdown-timer.php:129
+#: includes/module-countdown-timer.php:24
+msgid "DAYS"
+msgstr "روز"
+
+#: includes/admin-countdown-timer.php:44 includes/admin-countdown-timer.php:53
+#: includes/admin-countdown-timer.php:121
+#: includes/admin-countdown-timer.php:130
+msgid "HOURS"
+msgstr "ساعت"
+
+#: includes/admin-countdown-timer.php:45 includes/admin-countdown-timer.php:54
+#: includes/admin-countdown-timer.php:122
+#: includes/admin-countdown-timer.php:131
+#: includes/admin-countdown-timer.php:235
+msgid "MINUTES"
+msgstr "دقیقه"
+
+#: includes/admin-countdown-timer.php:46 includes/admin-countdown-timer.php:55
+#: includes/admin-countdown-timer.php:123
+#: includes/admin-countdown-timer.php:132
+#: includes/admin-countdown-timer.php:236
+msgid "SECONDS"
+msgstr "ثانیه"
+
+#: includes/admin-countdown-timer.php:50 includes/admin-countdown-timer.php:127
+msgid "Labels"
+msgstr "برچسب ها"
+
+#: includes/admin-countdown-timer.php:52 includes/admin-countdown-timer.php:129
+msgid "Days"
+msgstr "روزها"
+
+#: includes/admin-countdown-timer.php:53 includes/admin-countdown-timer.php:130
+msgid "Hours"
+msgstr "ساعت کاری"
+
+#: includes/admin-countdown-timer.php:54 includes/admin-countdown-timer.php:131
+msgid "Mins"
+msgstr "مین"
+
+#: includes/admin-countdown-timer.php:55 includes/admin-countdown-timer.php:132
+msgid "Secs"
+msgstr "ثانیه ها"
+
+#: includes/admin-countdown-timer.php:59 includes/admin-countdown-timer.php:136
+msgid "Type"
+msgstr "تایپ کنید"
+
+#: includes/admin-countdown-timer.php:59 includes/admin-countdown-timer.php:136
+msgid "Evergreen sets a dynamic countdown timer for each visitor"
+msgstr "‏Evergreen یک تایمر شمارش معکوس پویا برای هر بازدیدکننده تنظیم می کند"
+
+#: includes/admin-countdown-timer.php:60 includes/admin-countdown-timer.php:137
+msgid "One-time"
+msgstr "سر وقت"
+
+#: includes/admin-countdown-timer.php:60 includes/admin-countdown-timer.php:137
+msgid "Evergreen"
+msgstr "همیشه سبز"
+
+#: includes/admin-countdown-timer.php:60 includes/admin-countdown-timer.php:137
+msgid "Single Campaign"
+msgstr "کمپین تک"
+
+#: includes/admin-countdown-timer.php:195
+#: includes/admin-countdown-timer.php:207
+msgid "Delete Countdown"
+msgstr "حذف شمارش معکوس"
+
+#: includes/admin-countdown-timer.php:208
+msgid "Are you sure you want to delete this product countdown?"
+msgstr "آیا مطمئنید که می‌خواهید شمارش معکوس این محصول را حذف کنید؟"
+
+#: includes/admin-countdown-timer.php:212
+msgid "Add new product countdown"
+msgstr "اضافه کردن شمارش معکوس محصول جدید"
+
+#: includes/admin-countdown-timer.php:216
+msgid "Checkout Countdown"
+msgstr "شمارش معکوس پرداخت"
+
+#: includes/admin-countdown-timer.php:222
+msgid "Enable countdown timer on checkout page"
+msgstr "تایمر شمارش معکوس را در صفحه پرداخت فعال کنید"
+
+#: includes/admin-countdown-timer.php:226
+msgid "e.g. Your order is reserved for:"
+msgstr "به عنوان مثال، سفارش شما برای:"
+
+#: includes/admin-countdown-timer.php:229
+msgid "Expiry Message"
+msgstr "پیام انقضا"
+
+#: includes/admin-countdown-timer.php:230
+msgid ""
+"e.g. Times up! But good news! We&rsquo;ve extended your checkout time :)"
+msgstr ""
+"به عنوان مثال، زمان به پایان رسیده است! اما خبر خوب! ما زمان پرداخت شما را "
+"تمدید کردیم :)"
+
+#: includes/admin-countdown-timer.php:246
+msgid "Countdown Timer"
+msgstr "شمارشگر معکوستایمر شمارش معکوس"
+
+#: includes/admin-countdown-timer.php:247
+msgid ""
+"This feature allows you to run time-limited promotions to create urgency and "
+"drive more clicks from your single product pages to create more sales. You "
+"can also add one to the checkout page to encourage faster completion."
+msgstr ""
+"این ویژگی به شما امکان می دهد تبلیغات محدود زمانی را برای ایجاد فوریت و کلیک "
+"بیشتر از صفحات تک محصول خود برای ایجاد فروش بیشتر اجرا کنید. همچنین می‌توانید "
+"یکی را به صفحه پرداخت اضافه کنید تا تکمیل سریع‌تر را تشویق کنید."
+
+#: includes/admin-dashboard.php:13
+msgid "Order Bump Statistics"
+msgstr "سفارش آمار دست انداز"
+
+#: includes/admin-dashboard.php:25
+msgid "Impressions"
+msgstr "‏Impressions"
+
+#: includes/admin-dashboard.php:29
+msgid "Revenue"
+msgstr "درآمد"
+
+#: includes/admin-dashboard.php:33
+msgid "Additional Sales"
+msgstr "فروش اضافی"
+
+#: includes/admin-dashboard.php:37
+msgid "Click Rate"
+msgstr "رتبه کلیک"
+
+#: includes/admin-dashboard.php:42
+msgid "Conversion Rate"
+msgstr " نرخ تبدیل"
+
+#: includes/admin-dashboard.php:51
+msgid "CommerceKit Features"
+msgstr "ویژگی های CommerceKit"
+
+#: includes/admin-dashboard.php:61 includes/admin-dashboard.php:93
+#: includes/admin-dashboard.php:130 includes/admin-dashboard.php:167
+#: includes/admin-dashboard.php:204 includes/admin-dashboard.php:240
+#: includes/admin-dashboard.php:277 includes/admin-dashboard.php:312
+#: includes/admin-dashboard.php:352 includes/admin-dashboard.php:392
+#: includes/admin-dashboard.php:428 includes/admin-dashboard.php:464
+#: includes/admin-dashboard.php:499
+msgid "Configure"
+msgstr "پیکربندی کنید"
+
+#: includes/admin-dashboard.php:64
+msgid ""
+"Instant search suggestions helps customers save time and find products "
+"faster."
+msgstr ""
+"پیشنهادات جستجوی فوری به مشتریان کمک می کند در زمان صرفه جویی کنند و محصولات "
+"را سریعتر پیدا کنند."
+
+#: includes/admin-dashboard.php:70 includes/admin-dashboard.php:511
+msgid "9Kb of HTML"
+msgstr "9 کیلوبایت HTML"
+
+#: includes/admin-dashboard.php:70
+msgid "Loads on all pages"
+msgstr "در تمام صفحات بارگذاری می شود"
+
+#: includes/admin-dashboard.php:79 includes/admin-dashboard.php:116
+#: includes/admin-dashboard.php:153 includes/admin-dashboard.php:186
+#: includes/admin-dashboard.php:225 includes/admin-dashboard.php:263
+#: includes/admin-dashboard.php:298 includes/admin-dashboard.php:335
+#: includes/admin-dashboard.php:373 includes/admin-dashboard.php:413
+#: includes/admin-dashboard.php:449 includes/admin-dashboard.php:485
+#: includes/admin-dashboard.php:522
+msgid "Active"
+msgstr "فعال سازی"
+
+#: includes/admin-dashboard.php:82 includes/admin-dashboard.php:119
+#: includes/admin-dashboard.php:156 includes/admin-dashboard.php:189
+#: includes/admin-dashboard.php:228 includes/admin-dashboard.php:266
+#: includes/admin-dashboard.php:301 includes/admin-dashboard.php:338
+#: includes/admin-dashboard.php:376 includes/admin-dashboard.php:416
+#: includes/admin-dashboard.php:452 includes/admin-dashboard.php:488
+#: includes/admin-dashboard.php:525
+msgid "Inactive"
+msgstr "غیرفعال"
+
+#: includes/admin-dashboard.php:92 includes/admin-pdp-attributes-gallery.php:12
+#: includes/admin-pdp-attributes-gallery.php:27
+#: includes/admin-pdp-attributes-gallery.php:35 includes/admin-settings.php:389
+#: includes/commercegurus-attributes-gallery-functions.php:157
+msgid "Attributes Gallery"
+msgstr "گالری ویژگی ها"
+
+#: includes/admin-dashboard.php:98
+msgid ""
+"Further improve your gallery with the ability to assign images on an "
+"attribute basis."
+msgstr "گالری خود را با توانایی تخصیص تصاویر بر اساس ویژگی بهبود بیشتری دهید."
+
+#: includes/admin-dashboard.php:105
+msgid "Improves gallery usability"
+msgstr "قابلیت استفاده گالری را بهبود می بخشد"
+
+#: includes/admin-dashboard.php:105 includes/admin-dashboard.php:363
+#: includes/admin-dashboard.php:403 includes/admin-dashboard.php:439
+#: includes/admin-dashboard.php:476
+msgid "Loads on product pages"
+msgstr "در صفحات محصول بارگذاری می شود"
+
+#: includes/admin-dashboard.php:135
+msgid ""
+"Replace standard variation dropdowns with color, image, and button swatches."
+msgstr ""
+"گزینه‌های کشویی تغییرات استاندارد را با نمونه‌های رنگ، تصویر و دکمه جایگزین "
+"کنید."
+
+#: includes/admin-dashboard.php:142
+msgid "Improved usability"
+msgstr "قابلیت استفاده بهبود یافته"
+
+#: includes/admin-dashboard.php:142 includes/admin-dashboard.php:288
+msgid "Loads on product and catalog pages"
+msgstr "بارگیری در صفحات محصول و کاتالوگ"
+
+#: includes/admin-dashboard.php:166 includes/admin-settings.php:391
+msgid "Countdowns"
+msgstr "شمارش معکوس"
+
+#: includes/admin-dashboard.php:170
+msgid ""
+"Allows you to run time-limited promotions to create urgency and drive more "
+"clicks."
+msgstr ""
+"به شما امکان می دهد تبلیغات محدود زمانی را برای ایجاد فوریت و کلیک بیشتر "
+"اجرا کنید."
+
+#: includes/admin-dashboard.php:177
+msgid "7Kb of HTML"
+msgstr "7 کیلوبایت HTML"
+
+#: includes/admin-dashboard.php:177
+msgid "Loads on product and checkout pages"
+msgstr "در صفحات محصول و تسویه حساب بارگیری می شود"
+
+#: includes/admin-dashboard.php:203
+#: includes/admin-free-shipping-notification.php:23
+#: includes/admin-free-shipping-notification.php:61
+#: includes/admin-settings.php:392
+msgid "Free Shipping Notification"
+msgstr "اطلاعیه ارسال رایگان"
+
+#: includes/admin-dashboard.php:208
+msgid ""
+"Increase order revenue by showing your customers just how close they are to "
+"your free shipping threshold."
+msgstr ""
+"با نشان دادن اینکه مشتریانتان چقدر به آستانه ارسال رایگان شما نزدیک هستند، "
+"درآمد سفارش را افزایش دهید."
+
+#: includes/admin-dashboard.php:215 includes/admin-dashboard.php:288
+#: includes/admin-dashboard.php:403
+msgid "Improves conversions"
+msgstr "تبدیل ها را بهبود می بخشد"
+
+#: includes/admin-dashboard.php:215
+msgid "Loads on cart page and mini cart"
+msgstr "بارگیری در صفحه سبد خرید و سبد خرید کوچک"
+
+#: includes/admin-dashboard.php:239 includes/admin-order-bump.php:14
+#: includes/admin-order-bump.php:188 includes/admin-settings.php:393
+msgid "Order Bump"
+msgstr "سفارش دست انداز"
+
+#: includes/admin-dashboard.php:245
+msgid ""
+"Enables a customer to add an additional item to the cart, before they "
+"complete an order."
+msgstr ""
+"به مشتری امکان می‌دهد قبل از تکمیل سفارش، یک کالای اضافی به سبد خرید اضافه "
+"کند."
+
+#: includes/admin-dashboard.php:252 includes/admin-dashboard.php:476
+msgid "3Kb of HTML"
+msgstr "3 کیلوبایت HTML"
+
+#: includes/admin-dashboard.php:252
+msgid "Loads on the checkout"
+msgstr "بارگیری در صندوق"
+
+#: includes/admin-dashboard.php:281
+msgid ""
+"Enhance key product features, and highlight promotions and products with "
+"limited-time offers."
+msgstr ""
+"ویژگی‌های کلیدی محصول را بهبود بخشید و تبلیغات و محصولات را با پیشنهادهای "
+"زمانی محدود برجسته کنید."
+
+#: includes/admin-dashboard.php:311 includes/admin-pdp-gallery.php:12
+#: includes/admin-pdp-gallery.php:24 includes/admin-pdp-gallery.php:58
+#: includes/admin-settings.php:395
+msgid "Product Gallery"
+msgstr "گالری محصول"
+
+#: includes/admin-dashboard.php:317
+msgid ""
+"An improved product gallery with multiple layout options and video support. "
+"Built for performance."
+msgstr ""
+"یک گالری محصول بهبودیافته با گزینه‌های طرح‌بندی متعدد و پشتیبانی ویدیو. برای "
+"عملکرد ساخته شده است."
+
+#: includes/admin-dashboard.php:324
+msgid "80%+ lighter than the core gallery"
+msgstr "80% + سبک تر از گالری هسته"
+
+#: includes/admin-dashboard.php:324
+msgid "Read more"
+msgstr "اطلاعات بیشتر"
+
+#: includes/admin-dashboard.php:351 includes/admin-settings.php:396
+#: includes/admin-size-guide.php:12 includes/admin-size-guide.php:51
+#: includes/module-size-guide.php:18
+msgid "Size Guides"
+msgstr "راهنمای اندازه"
+
+#: includes/admin-dashboard.php:356 includes/admin-size-guide.php:52
+msgid ""
+"If your products require sizing, this feature is crucial. It helps reduce "
+"costly returns, and improves the consumer experience."
+msgstr ""
+"اگر محصولات شما نیاز به اندازه دارند، این ویژگی بسیار مهم است. این به کاهش "
+"بازده پرهزینه کمک می کند و تجربه مصرف کننده را بهبود می بخشد."
+
+#: includes/admin-dashboard.php:363
+msgid "Reduces returns"
+msgstr "بازده را کاهش می دهد"
+
+#: includes/admin-dashboard.php:391 includes/admin-settings.php:397
+#: includes/admin-sticky-atc-bar.php:12 includes/admin-sticky-atc-bar.php:32
+msgid "Sticky Add to Cart"
+msgstr "چسبنده افزودن به سبد خرید"
+
+#: includes/admin-dashboard.php:396
+msgid ""
+"Adds a conversion-friendly sticky add to cart bar on mobile and desktop. Can "
+"also expand the default WooCommerce tabs."
+msgstr ""
+"نوار افزودنی چسبنده به سبد خرید را در موبایل و دسکتاپ اضافه می کند. همچنین "
+"می تواند برگه های پیش فرض ووکامرس را گسترش دهد."
+
+#: includes/admin-dashboard.php:427 includes/admin-inventory-bar.php:12
+#: includes/admin-inventory-bar.php:92 includes/admin-settings.php:398
+msgid "Stock Meter"
+msgstr "استوک متر"
+
+#: includes/admin-dashboard.php:432
+msgid ""
+"A visually effective way to alert customers when the stock is low on product "
+"pages."
+msgstr ""
+"یک روش بصری موثر برای هشدار دادن به مشتریان زمانی که موجودی در صفحات محصول "
+"کم است."
+
+#: includes/admin-dashboard.php:439
+msgid "2Kb of HTML"
+msgstr "2 کیلوبایت HTML"
+
+#: includes/admin-dashboard.php:463 includes/admin-settings.php:400
+#: includes/admin-waitlist.php:276
+msgid "Waitlist"
+msgstr "لیست انتظار"
+
+#: includes/admin-dashboard.php:469
+msgid ""
+"Collect emails of interested buyers when your items are sold out. "
+"Automatically notify buyers when back in stock."
+msgstr ""
+"هنگامی که اقلام شما به فروش می رسد، ایمیل های خریداران علاقه مند را جمع آوری "
+"کنید. به صورت خودکار به خریداران در صورت بازگشت به انبار اطلاع دهید."
+
+#: includes/admin-dashboard.php:498 includes/admin-settings.php:401
+#: includes/admin-wishlist.php:117 includes/module-wishlist.php:81
+#: includes/module-wishlist.php:83 includes/module-wishlist.php:171
+#: includes/module-wishlist.php:215 includes/module-wishlist.php:218
+#: includes/module-wishlist.php:255 includes/module-wishlist.php:257
+#: includes/module-wishlist.php:353 includes/module-wishlist.php:380
+#: includes/module-wishlist.php:537 includes/module-wishlist.php:538
+msgid "Wishlist"
+msgstr "لیست علاقه‌مندی‌ها"
+
+#: includes/admin-dashboard.php:504
+msgid ""
+"Shoppers can create personalized collections of products they want to buy."
+msgstr ""
+"خریداران می توانند مجموعه های شخصی سازی شده از محصولاتی را که می خواهند "
+"بخرند ایجاد کنند."
+
+#: includes/admin-dashboard.php:511
+msgid "Loads on WooCommerce pages"
+msgstr "در صفحات ووکامرس بارگذاری می شود"
+
+#: includes/admin-dashboard.php:543
+msgid ""
+"Optimize your WooCommerce store for speed and conversions with Shoptimizer. "
+"Shoptimizer is a FAST WooCommerce theme that comes with a ton of features "
+"all designed to help you convert more users to customers."
+msgstr ""
+"فروشگاه WooCommerce خود را برای سرعت و تبدیل با Shoptimizer بهینه کنید. "
+"Shoptimizer یک تم FAST WooCommerce است که دارای تعداد زیادی ویژگی است که "
+"همگی برای کمک به تبدیل کاربران بیشتر به مشتریان طراحی شده اند."
+
+#: includes/admin-dashboard.php:546
+msgid "Documentation"
+msgstr "مستندات راهنمایی"
+
+#: includes/admin-dashboard.php:547
+msgid ""
+"Visit the documentation area for a more detailed overview on each of these "
+"features. If you still have questions, you can send us a private ticket by "
+"clicking the Support link."
+msgstr ""
+"برای بررسی اجمالی دقیق تر در مورد هر یک از این ویژگی ها، به بخش اسناد مراجعه "
+"کنید. اگر هنوز سوالی دارید، می توانید با کلیک روی پیوند پشتیبانی، یک بلیط "
+"خصوصی برای ما ارسال کنید."
+
+#: includes/admin-dashboard.php:548
+msgid "View Documentation"
+msgstr "مشاهده مستندات"
+
+#: includes/admin-dashboard.php:551
+msgid "Connection status"
+msgstr "وضعیت اتصال"
+
+#: includes/admin-dashboard.php:560
+msgid ""
+"Your website is connected! One click updates for Shoptimizer will appear in "
+"Appearance &rarr; Themes."
+msgstr ""
+"وب سایت شما متصل است! به روز رسانی های یک کلیک برای Shoptimizer در "
+"Appearance &rarr; تم ها"
+
+#: includes/admin-dashboard.php:569
+msgid ""
+"You have not enabled one-click updates for Shoptimizer and CommerceKit. To "
+"do so, please"
+msgstr ""
+"شما به روز رسانی های یک کلیک را برای Shoptimizer و CommerceKit فعال نکرده "
+"اید. برای انجام این کار، لطفا"
+
+#: includes/admin-dashboard.php:569
+msgid "connect your website"
+msgstr "وب سایت خود را متصل کنید"
+
+#: includes/admin-dashboard.php:569
+msgid "to your Shoptimizer subscription."
+msgstr "به اشتراک Shoptimizer شما."
+
+#: includes/admin-dashboard.php:569
+msgid "View the"
+msgstr "مشاهده کنید"
+
+#: includes/admin-dashboard.php:569
+msgid "update guide"
+msgstr "بروزسانی راهنما"
+
+#: includes/admin-dashboard.php:569
+msgid "to find out more."
+msgstr "برای کسب اطلاعات بیشتر"
+
+#: includes/admin-free-shipping-notification.php:27
+msgid "Display on the cart page"
+msgstr "نمایش در صفحه سبد خرید"
+
+#: includes/admin-free-shipping-notification.php:28
+msgid "Display on the mini cart"
+msgstr "نمایش بر روی سبد خرید کوچک"
+
+#: includes/admin-free-shipping-notification.php:29
+msgid "Display notification"
+msgstr "نمایش اعلان"
+
+#: includes/admin-free-shipping-notification.php:29
+msgid "Display notification before entering the shipping address"
+msgstr "نمایش اعلان قبل از وارد کردن آدرس حمل و نقل"
+
+#: includes/admin-free-shipping-notification.php:30
+msgid "Initial message"
+msgstr "پیام اولیه"
+
+#: includes/admin-free-shipping-notification.php:30
+msgid "Available shortcode: {free_shipping_amount}"
+msgstr "کد کوتاه موجود: {مبلغ ارسال رایگان}"
+
+#: includes/admin-free-shipping-notification.php:31
+msgid "Progress message"
+msgstr "پیام پیشرفت"
+
+#: includes/admin-free-shipping-notification.php:31
+msgid "Available shortcode: {remaining}"
+msgstr "کد کوتاه موجود: {remaining}"
+
+#: includes/admin-free-shipping-notification.php:32
+#: includes/admin-waitlist.php:169
+msgid "Success message"
+msgstr "پیام موفقیت"
+
+#: includes/admin-free-shipping-notification.php:33
+msgid "Progress bar color"
+msgstr "نوار پیشرفت رنگ"
+
+#: includes/admin-free-shipping-notification.php:34
+msgid "Exclude shipping classes"
+msgstr "کلاس های حمل و نقل را حذف کنید"
+
+#: includes/admin-free-shipping-notification.php:34
+msgid "Select shipping class"
+msgstr "کلاس حمل و نقل را انتخاب کنید"
+
+#: includes/admin-free-shipping-notification.php:54
+msgid ""
+"Note: If you adjust these settings you may need to add or remove an item "
+"from your cart to see the changes."
+msgstr ""
+"توجه: اگر این تنظیمات را انجام دهید، ممکن است لازم باشد یک مورد از سبد خرید "
+"خود اضافه یا حذف کنید تا تغییرات را مشاهده کنید."
+
+#: includes/admin-free-shipping-notification.php:62
+msgid ""
+"Shipping costs are one of the major reasons shoppers abandon their cart. If "
+"you offer free shipping above a certain threshold, you can make this more "
+"prominent by enabling this module."
+msgstr ""
+"هزینه حمل و نقل یکی از دلایل اصلی ترک سبد خرید توسط خریداران است. اگر حمل و "
+"نقل رایگان بالاتر از یک آستانه خاص ارائه می دهید، می توانید با فعال کردن این "
+"ماژول، این موضوع را برجسته تر کنید."
+
+#: includes/admin-inventory-bar.php:16
+msgid "Enable stock meter"
+msgstr "فعال کردن سهام سنج"
+
+#: includes/admin-inventory-bar.php:16
+msgid "Show stock meter on the single product page"
+msgstr "نمایش متر سهام در صفحه تک محصول"
+
+#: includes/admin-inventory-bar.php:18
+msgid "Low stock text"
+msgstr "متن کم سهام"
+
+#: includes/admin-inventory-bar.php:20 includes/admin-inventory-bar.php:29
+#, php-format
+msgid "Add &ldquo;%s&rdquo; to replace the stock number, "
+msgstr "افزودن &ldquo;%&rdquo; برای جایگزینی شماره سهام،"
+
+#: includes/admin-inventory-bar.php:22
+#, php-format
+msgid "e.g. Only %s items left in stock!"
+msgstr "به عنوان مثال، فقط %s مورد در انبار باقی مانده است!"
+
+#: includes/admin-inventory-bar.php:24
+msgid "Low stock threshold"
+msgstr "آستانه کاهش موجودیآستانه سهام پایین"
+
+#: includes/admin-inventory-bar.php:25
+msgid "Low stock progress bar color"
+msgstr "رنگ نوار پیشرفت سهام کم است"
+
+#: includes/admin-inventory-bar.php:27
+msgid "Regular stock text"
+msgstr "متن سهام عادی"
+
+#: includes/admin-inventory-bar.php:31
+#, php-format
+msgid "e.g. Less than %s items left!"
+msgstr "به عنوان مثال، کمتر از %s مورد باقی مانده است!"
+
+#: includes/admin-inventory-bar.php:32
+msgid "Regular stock threshold"
+msgstr "آستانه سهام منظم"
+
+#: includes/admin-inventory-bar.php:33
+msgid "Regular stock progress bar color"
+msgstr "رنگ نوار پیشرفت سهام منظم"
+
+#: includes/admin-inventory-bar.php:34
+msgid "High stock text"
+msgstr "متن سهام بالا"
+
+#: includes/admin-inventory-bar.php:35
+msgid "High stock threshold"
+msgstr "آستانه سهام بالا"
+
+#: includes/admin-inventory-bar.php:93
+msgid ""
+"This feature allows you to show a stock meter counter on the single product "
+"page. It&lsquo;s a more visually effective way to alert customers when the "
+"stock level is low."
+msgstr ""
+"این ویژگی به شما این امکان را می دهد که یک شمارنده موجودی را در صفحه تک "
+"محصول نشان دهید. این روش بصری موثرتری برای هشدار دادن به مشتریان در صورت "
+"پایین بودن سطح سهام است."
+
+#: includes/admin-order-bump.php:17
+msgid "Enable order bumps on checkout page."
+msgstr "افزایش سفارش در صفحه پرداخت را فعال کنید."
+
+#: includes/admin-order-bump.php:23
+msgid "Order Bumps"
+msgstr "سفارش دست انداز"
+
+#: includes/admin-order-bump.php:34 includes/admin-order-bump.php:92
+msgid "Enable order bump on checkout"
+msgstr "افزایش سفارش هنگام پرداخت را فعال کنید"
+
+#: includes/admin-order-bump.php:37 includes/admin-order-bump.php:95
+msgid "Select"
+msgstr "انتخاب"
+
+#: includes/admin-order-bump.php:38 includes/admin-order-bump.php:103
+msgid ""
+"This is the order bump product which will appear on the checkout page. "
+"Simple and variable products only."
+msgstr ""
+"این محصول سفارشی است که در صفحه پرداخت ظاهر می شود. فقط محصولات ساده و متغیر"
+
+#: includes/admin-order-bump.php:45 includes/admin-order-bump.php:110
+msgid "Button text"
+msgstr "متن دکمه (button)"
+
+#: includes/admin-order-bump.php:46 includes/module-order-bump.php:36
+#: includes/module-order-bump.php:55
+msgid "Click to add"
+msgstr "کلیک برای اضافه کردن"
+
+#: includes/admin-order-bump.php:50 includes/module-order-bump.php:37
+#: includes/module-order-bump.php:56
+msgid "Added!"
+msgstr "اضافه شده"
+
+#: includes/admin-order-bump.php:66
+msgid "Specific products:"
+msgstr "محصولات خاص"
+
+#: includes/admin-order-bump.php:114
+msgid "Button added"
+msgstr "دکمه افزوده شد"
+
+#: includes/admin-order-bump.php:166 includes/admin-order-bump.php:176
+msgid "Delete order bump"
+msgstr "حذف برآمدگی سفارش"
+
+#: includes/admin-order-bump.php:177
+msgid "Are you sure you want to delete this product order bump?"
+msgstr "آیا مطمئنید که می‌خواهید این برجستگی سفارش محصول را حذف کنید؟"
+
+#: includes/admin-order-bump.php:181
+msgid "Add new order bump"
+msgstr "افزودن برجستگی سفارش جدید"
+
+#: includes/admin-order-bump.php:189
+msgid ""
+"An order bump allows a user to add an additional item to the cart, before "
+"they complete an order. Only one order bump is displayed at a time on the "
+"checkout page."
+msgstr ""
+"افزایش سفارش به کاربر این امکان را می دهد که قبل از تکمیل سفارش، یک کالای "
+"اضافی را به سبد خرید اضافه کند. فقط یک سفارش در یک زمان در صفحه پرداخت نمایش "
+"داده می شود."
+
+#: includes/admin-pdp-attributes-gallery.php:17
+msgid "What is the CommerceKit Attributes Gallery?"
+msgstr "گالری ویژگی های CommerceKit چیست؟"
+
+#: includes/admin-pdp-attributes-gallery.php:18
+msgid ""
+"On a WooCommerce product page, if you have a product with two attributes, "
+"say \"Size\" and \"Color\", you ordinarily need to make a selection from "
+"both attributes before the gallery image updates."
+msgstr ""
+"در صفحه محصول ووکامرس، اگر محصولی با دو ویژگی دارید، مثلاً «اندازه» و «رنگ»، "
+"معمولاً باید قبل از به‌روزرسانی تصویر گالری، از هر دو ویژگی انتخاب کنید."
+
+#: includes/admin-pdp-attributes-gallery.php:20
+msgid ""
+"Our new attributes gallery allows you to assign images to a single "
+"attribute. So when a user selects \"Blue\", the Blue gallery immediately "
+"appears. No need to select a size."
+msgstr ""
+"گالری ویژگی های جدید ما به شما امکان می دهد تصاویر را به یک ویژگی اختصاص "
+"دهید. بنابراین وقتی کاربر \"آبی\" را انتخاب می کند، بلافاصله گالری آبی ظاهر "
+"می شود. نیازی به انتخاب سایز نیست"
+
+#: includes/admin-pdp-attributes-gallery.php:22
+msgid ""
+"This is far more usable and powerful than the standard WooCommerce "
+"implementation and is inline with how best-in-class eCommerce stores display "
+"variations."
+msgstr ""
+"این بسیار کاربردی تر و قدرتمندتر از اجرای استاندارد WooCommerce است و مطابق "
+"با نحوه نمایش انواع فروشگاه های تجارت الکترونیک در کلاس است."
+
+#: includes/admin-pdp-attributes-gallery.php:36
+msgid ""
+"Optimize your product page gallery by assigning images on an attribute "
+"basis. Once configured, visitors will see an updated gallery image when a "
+"single attribute has been selected."
+msgstr ""
+"با اختصاص تصاویر بر اساس ویژگی، گالری صفحه محصول خود را بهینه کنید. پس از "
+"پیکربندی، بازدیدکنندگان یک تصویر گالری به روز شده را هنگامی که یک مشخصه "
+"انتخاب شده است مشاهده خواهند کرد."
+
+#: includes/admin-pdp-gallery.php:17
+msgid "Should I enable CommerceKit Product Gallery?"
+msgstr "آیا باید گالری محصولات CommerceKit را فعال کنم؟"
+
+#: includes/admin-pdp-gallery.php:18
+msgid ""
+"Right now CommerceKit Product Gallery is disabled by default, but has been "
+"tested heavily on live WooCommerce stores. It is compatible with WooCommerce "
+"variation images, and with our own Attribute Swatches module. You should "
+"evaluate CommerceKit Product Gallery on a test or staging environment first."
+msgstr ""
+"در حال حاضر CommerceKit Product Gallery به طور پیش فرض غیرفعال است، اما به "
+"شدت در فروشگاه های WooCommerce زنده آزمایش شده است. این با تصاویر تنوع "
+"WooCommerce و با ماژول ویژگی Swatches خود ما سازگار است. ابتدا باید گالری "
+"محصولات CommerceKit را در یک محیط آزمایشی یا مرحله‌بندی ارزیابی کنید."
+
+#: includes/admin-pdp-gallery.php:20
+msgid ""
+"To report any issues or if there is a specific extension you would like us "
+"to make compatible with CommerceKit Product Gallery"
+msgstr ""
+"برای گزارش هر گونه مشکل یا اگر برنامه افزودنی خاصی وجود دارد، می‌خواهید با "
+"گالری محصولات CommerceKit سازگار باشد."
+
+#: includes/admin-pdp-gallery.php:20
+msgid "let us know"
+msgstr "به ما اطلاع دهید"
+
+#: includes/admin-pdp-gallery.php:20
+msgid "Read our blog post to"
+msgstr "پست وبلاگ ما را بخوانید"
+
+#: includes/admin-pdp-gallery.php:20
+msgid "learn more"
+msgstr "اطلاعات بیشتر."
+
+#: includes/admin-pdp-gallery.php:20
+msgid "about the CommerceKit Product Gallery."
+msgstr "درباره گالری محصولات CommerceKit."
+
+#: includes/admin-pdp-gallery.php:25
+msgid "Visible thumbnails"
+msgstr "تصاویر کوچک قابل مشاهده"
+
+#: includes/admin-pdp-gallery.php:25
+msgid ""
+"Number of gallery thumbnails to display at a time. Minimum 3 and maximum 8."
+msgstr "تعداد تصاویر کوچک گالری برای نمایش در یک زمان. حداقل 3 و حداکثر 8."
+
+#: includes/admin-pdp-gallery.php:25
+msgid "Please enter number between 3 and 8."
+msgstr "لطفا عدد بین 3 تا 8 را وارد کنید."
+
+#: includes/admin-pdp-gallery.php:26
+msgid "Enable lightbox?"
+msgstr "لایت باکس فعال شود؟"
+
+#: includes/admin-pdp-gallery.php:26
+msgid "Display product images in a lightbox when clicked on."
+msgstr "با کلیک روی آن، تصاویر محصول را در لایت باکس نمایش دهید."
+
+#: includes/admin-pdp-gallery.php:27
+msgid "Enable video auto play?"
+msgstr "پخش خودکار ویدیو فعال شود؟"
+
+#: includes/admin-pdp-gallery.php:27
+msgid "Enable video auto play on Product Gallery."
+msgstr "پخش خودکار ویدیو را در گالری محصول فعال کنید."
+
+#: includes/admin-pdp-gallery.php:28
+msgid "Gallery layout"
+msgstr "چیدمان گالری"
+
+#: includes/admin-pdp-gallery.php:31 includes/admin-settings.php:1239
+msgid "Horizontal"
+msgstr "افقی"
+
+#: includes/admin-pdp-gallery.php:32 includes/admin-settings.php:1240
+msgid "Vertical left"
+msgstr "عمودی سمت چپ"
+
+#: includes/admin-pdp-gallery.php:33 includes/admin-settings.php:1241
+msgid "Vertical right"
+msgstr "راست عمودی"
+
+#: includes/admin-pdp-gallery.php:34 includes/admin-settings.php:1242
+msgid "Grid: 2 cols x 4 rows"
+msgstr "شبکه: 2 ستون در 4 ردیف"
+
+#: includes/admin-pdp-gallery.php:35 includes/admin-settings.php:1243
+msgid "Grid: 3 cols, 1 col, 2 cols"
+msgstr "شبکه: 3 ستون، 1 ستون، 2 ستون"
+
+#: includes/admin-pdp-gallery.php:36 includes/admin-settings.php:1244
+msgid "Grid: 1 col, 2 cols, 2 cols"
+msgstr "شبکه: 1 ستون، 2 ستون، 2 ستون"
+
+#: includes/admin-pdp-gallery.php:37 includes/admin-settings.php:1245
+msgid "Vertical scroll"
+msgstr "اسکرول عمودی"
+
+#: includes/admin-pdp-gallery.php:38 includes/admin-settings.php:1246
+msgid "Simple scroll"
+msgstr "اسکرول ساده"
+
+#: includes/admin-pdp-gallery.php:59
+msgid ""
+"CommerceKit Product Gallery is a lightning fast replacement for the core "
+"WooCommerce product gallery that will significantly improve your Google "
+"PageSpeed Insights scores on product pages."
+msgstr ""
+"گالری محصولات CommerceKit جایگزینی سریع برای گالری محصولات اصلی WooCommerce "
+"است که به طور قابل توجهی امتیازات Google PageSpeed Insights شما را در صفحات "
+"محصول بهبود می بخشد."
+
+#: includes/admin-pdp-gallery.php:61
+msgid ""
+"It is the first WooCommerce Product Gallery extension built specifically for "
+"web performance optimization which is now a key Google ranking signal."
+msgstr ""
+"این اولین افزونه WooCommerce Product Gallery است که به طور خاص برای بهینه "
+"سازی عملکرد وب ساخته شده است که اکنون یک سیگنال اصلی رتبه بندی گوگل است."
+
+#: includes/admin-pdp-triggers.php:12 includes/admin-pdp-triggers.php:16
+msgid "Product Details Page Sales Triggers"
+msgstr "جزئیات محصول محرک های فروش صفحه"
+
+#: includes/admin-pdp-triggers.php:17
+msgid "Minimum number of reviews"
+msgstr "حداقل تعداد بازبینی"
+
+#: includes/admin-pdp-triggers.php:17
+#, php-format
+msgid ""
+"Minimum number of reviews required before it is displayed. The average "
+"rating needs to be 70% or greater."
+msgstr ""
+"حداقل تعداد بازبینی لازم قبل از نمایش آن است. میانگین امتیاز باید 70٪ یا "
+"بیشتر باشد."
+
+#: includes/admin-pdp-triggers.php:19
+msgid "Trigger text"
+msgstr "متن ماشه"
+
+#: includes/admin-pdp-triggers.php:19 includes/module-pdp-triggers.php:35
+#, php-format
+msgid "Good choice! %s of buyers were satisfied with this."
+msgstr "‏Good choice! %s of buyers were satisfied with this."
+
+#: includes/admin-pdp-triggers.php:21
+#, php-format
+msgid "Add &ldquo;%s&rdquo; to replace the percentage, "
+msgstr "افزودن &ldquo;%&rdquo; برای جایگزینی درصد،"
+
+#: includes/admin-pdp-triggers.php:23
+#, php-format
+msgid "e.g. Good choice! %s of buyers were satisfied with this."
+msgstr "به عنوان مثال، انتخاب خوب! %s از خریداران از این امر راضی بودند."
+
+#: includes/admin-pdp-triggers.php:32
+msgid "PDP Sales Triggers"
+msgstr "محرک های فروش PDP"
+
+#: includes/admin-pdp-triggers.php:33
+msgid ""
+"This feature allows you to show conversion triggers on the single product "
+"page. It displays a percentage satisfaction rating based on the number of "
+"reviews and the average rating."
+msgstr ""
+"این ویژگی به شما امکان می دهد محرک های تبدیل را در صفحه محصول واحد نشان "
+"دهید. بر اساس تعداد بازبینی ها و میانگین امتیاز، درصد رضایت را نشان می دهد."
+
+#: includes/admin-settings.php:315
+msgid "Your email has been sent to our support team."
+msgstr "ایمیل شما برای تیم پشتیبانی ما ارسال شده است."
+
+#: includes/admin-settings.php:317
+msgid "Error on sending email to support team."
+msgstr "خطا در ارسال ایمیل به تیم پشتیبانی."
+
+#: includes/admin-settings.php:364 includes/admin-settings.php:612
+msgid "Settings have been saved."
+msgstr "تنظیمات ذخیره شده است."
+
+#: includes/admin-settings.php:384
+msgid ""
+"Conversion-boosting, performance-focused eCommerce features which work "
+"together seamlessly. From"
+msgstr ""
+"ویژگی‌های تجارت الکترونیک متمرکز بر عملکرد، افزایش دهنده تبدیل که به طور "
+"یکپارچه با هم کار می‌کنند. از جانب"
+
+#: includes/admin-settings.php:384
+msgid "CommerceGurus"
+msgstr "CommerceGurus"
+
+#: includes/admin-settings.php:387
+msgid "Dashboard"
+msgstr "پیشخوان"
+
+#: includes/admin-settings.php:399
+msgid "PDP Triggers"
+msgstr "محرک های PDP"
+
+#: includes/admin-settings.php:403
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: includes/admin-settings.php:607
+msgid "Error on saving settings."
+msgstr "خطا در ذخیره تنظیمات"
+
+#: includes/admin-settings.php:633
+msgid "There are no waitlists to export."
+msgstr "هیچ لیست انتظاری برای صادرات وجود ندارد."
+
+#: includes/admin-settings.php:642
+msgid "Selected waitlist has been deleted."
+msgstr "لیست انتظار انتخاب شده حذف شده است."
+
+#: includes/admin-settings.php:644
+msgid "Please select at least one waitlist to delete."
+msgstr "لطفاً حداقل یک لیست انتظار را برای حذف انتخاب کنید."
+
+#: includes/admin-settings.php:1079
+msgid ""
+"Attribute swatches cache is building in the background. You can clear or "
+"start rebuilding when this background process has completed."
+msgstr ""
+"کش نمونه‌های مشخصه در پس‌زمینه ساخته می‌شود. وقتی این فرآیند پس‌زمینه کامل شد، "
+"می‌توانید پاک کنید یا شروع به بازسازی کنید."
+
+#: includes/admin-settings.php:1100
+msgid "Attribute swatches cache has been cleared."
+msgstr "کش نمونه های ویژگی پاک شده است."
+
+#: includes/admin-settings.php:1212
+msgid "CommerceKit options"
+msgstr "گزینه های CommerceKit"
+
+#: includes/admin-settings.php:1236
+msgid "Product gallery layout"
+msgstr "چیدمان گالری محصولات"
+
+#: includes/admin-settings.php:1238
+msgid "Global default"
+msgstr "پیش فرض جهانی"
+
+#: includes/admin-settings.php:1247
+msgid "Core WooCommerce Gallery"
+msgstr "گالری Core WooCommerce"
+
+#: includes/admin-settings.php:1258
+msgid "Disable sections"
+msgstr "غیرفعال کردن بخش هاغیرفعال کردن بخش ها"
+
+#: includes/admin-settings.php:1262
+msgid "Disable product countdown"
+msgstr "شمارش معکوس محصول را غیرفعال کنید"
+
+#: includes/admin-settings.php:1265
+msgid "Disable inventory bar"
+msgstr "نوار موجودی را غیرفعال کنید"
+
+#: includes/admin-settings.php:1268
+msgid "Disable sticky add to cart bar"
+msgstr "نوار افزودن چسبنده به سبد خرید را غیرفعال کنید"
+
+#: includes/admin-size-guide.php:16
+msgid "Enable size guides"
+msgstr "راهنماهای اندازه را فعال کنید"
+
+#: includes/admin-size-guide.php:17
+msgid "Display in search results"
+msgstr "نمایش در نتایج جستجو"
+
+#: includes/admin-size-guide.php:17
+msgid "Make size guide pages findable within search results."
+msgstr "صفحات راهنمای اندازه را در نتایج جستجو قابل یافتن کنید."
+
+#: includes/admin-size-guide.php:18
+msgid "Size guide label"
+msgstr "برچسب راهنمای اندازه"
+
+#: includes/admin-size-guide.php:19
+msgid "Default size guide"
+msgstr "راهنمای اندازه پیش فرض"
+
+#: includes/admin-size-guide.php:19
+msgid "No default size guide set"
+msgstr "هیچ مجموعه راهنمای اندازه پیش فرض وجود ندارد"
+
+#: includes/admin-sticky-atc-bar.php:16
+msgid "Enable on desktop"
+msgstr "روی دسکتاپ فعال کنید"
+
+#: includes/admin-sticky-atc-bar.php:17
+msgid "Enable on mobile"
+msgstr "در موبایل فعال کنید"
+
+#: includes/admin-sticky-atc-bar.php:18
+msgid "Expand tabs"
+msgstr "برگه ها را گسترش دهید"
+
+#: includes/admin-sticky-atc-bar.php:18
+msgid "Removes the tabs and shows the contents one after another"
+msgstr "برگه ها را حذف می کند و محتویات را یکی پس از دیگری نشان می دهد"
+
+#: includes/admin-sticky-atc-bar.php:19
+msgid "Gallery tab title"
+msgstr "عنوان برگه گالری"
+
+#: includes/admin-sticky-atc-bar.php:26
+msgid ""
+"We have included an \"Expand tabs\" option. Important information hidden "
+"within the default WooCommerce tabs can be missed by customers. Collapsing "
+"the contents of the tabs underneath each other makes the content more "
+"discoverable, particularly when scrolling on mobile. The \"Gallery tab title"
+"\" displays an additional anchor tab which scrolls back to the main summary "
+"area of the PDP."
+msgstr ""
+"ما گزینه \"Expand Tabs\" را قرار داده ایم. اطلاعات مهم پنهان شده در برگه های "
+"پیش فرض WooCommerce ممکن است توسط مشتریان نادیده گرفته شود. جمع کردن محتویات "
+"برگه‌ها در زیر یکدیگر باعث می‌شود که محتویات بیشتر قابل شناسایی باشند، به ویژه "
+"هنگام پیمایش در تلفن همراه. \"عنوان برگه گالری\" یک زبانه لنگر اضافی را نشان "
+"می دهد که به قسمت خلاصه اصلی PDP برمی گردد."
+
+#: includes/admin-sticky-atc-bar.php:33
+msgid ""
+"This feature adds a sticky add to cart button which is fixed to the bottom "
+"of the viewport on mobile. Mobile conversions are crucial and displaying a "
+"call to action at all times on PDPs will boost sales."
+msgstr ""
+"این ویژگی یک دکمه چسبنده افزودن به سبد خرید اضافه می کند که در قسمت پایین "
+"نمای در موبایل ثابت می شود. تبدیل‌های موبایلی بسیار مهم هستند و نمایش دعوت به "
+"عمل همیشه در PDP باعث افزایش فروش می‌شود."
+
+#: includes/admin-sticky-atc-bar.php:34
+msgid ""
+"On desktop, the add to cart button attaches to the sticky tabs bar upon "
+"scrolling."
+msgstr ""
+"در دسکتاپ، دکمه افزودن به سبد خرید به نوار برگه‌های چسبنده در هنگام پیمایش "
+"متصل است."
+
+#: includes/admin-support.php:12
+msgid "Contact support"
+msgstr "تماس با پشتیبانی"
+
+#: includes/admin-support.php:19
+msgid "First name"
+msgstr "نام کوچک"
+
+#: includes/admin-support.php:20
+msgid "Enter your first name"
+msgstr "نام خود را وارد کنید"
+
+#: includes/admin-support.php:24
+msgid "Your email"
+msgstr "آدرس ایمیل شما"
+
+#: includes/admin-support.php:25
+msgid "Replies will be sent to this address"
+msgstr "پاسخ ها به این آدرس ارسال خواهد شد"
+
+#: includes/admin-support.php:29
+msgid "URL"
+msgstr "آدرس"
+
+#: includes/admin-support.php:30
+msgid "A link where we can see the issue"
+msgstr "لینکی که می توانیم مشکل را ببینیم"
+
+#: includes/admin-support.php:34
+msgid "Question title"
+msgstr "عنوان سوال"
+
+#: includes/admin-support.php:35
+msgid "Summarize your question in a few words"
+msgstr "سوال خود را در چند کلمه خلاصه کنید"
+
+#: includes/admin-support.php:39
+msgid "Question"
+msgstr "سوال"
+
+#: includes/admin-support.php:40
+msgid "Ensure that you have carefully looked through the "
+msgstr "اطمینان حاصل کنید که به دقت از طریق آن نگاه کرده اید"
+
+#: includes/admin-support.php:40
+msgid "documentation area"
+msgstr "محصول مستندات"
+
+#: includes/admin-support.php:40
+msgid "first."
+msgstr "ابتدا"
+
+#: includes/admin-support.php:42
+msgid "If you are including screenshots, try using: "
+msgstr "اگر از اسکرین شات استفاده می کنید، استفاده کنید:"
+
+#: includes/admin-support.php:42
+msgid "If you are including code, please use: "
+msgstr "اگر کد را وارد می‌کنید، لطفاً از:"
+
+#: includes/admin-support.php:45
+msgid "Submit ticket"
+msgstr "ارسال تیکت"
+
+#: includes/admin-support.php:62
+msgid "Diagnostics"
+msgstr "عیب یابی"
+
+#: includes/admin-support.php:63
+msgid "Shoptimizer version"
+msgstr "ورژن شاپتیمایزر"
+
+#: includes/admin-support.php:63
+msgid "Shoptimizer is not active"
+msgstr "شاپتیمایزر فعال نیست"
+
+#: includes/admin-support.php:64
+msgid "WordPress version"
+msgstr "نسخه وردپرس"
+
+#: includes/admin-support.php:65
+msgid "WooCommerce version"
+msgstr "نسخه ووکامرس"
+
+#: includes/admin-support.php:66
+msgid "Using a child theme?"
+msgstr "استفاده از پوسته چایلد ?"
+
+#: includes/admin-support.php:66 includes/admin-waitlist.php:80
+#: includes/admin-waitlist.php:142
+msgid "Yes"
+msgstr "بله"
+
+#: includes/admin-support.php:66 includes/admin-waitlist.php:81
+#: includes/admin-waitlist.php:142
+msgid "No"
+msgstr "خیر"
+
+#: includes/admin-support.php:66
+msgid "If you make customizations it&rsquo;s a good idea to use a"
+msgstr "اگر سفارشی‌سازی می‌کنید، ایده خوبی است که از a"
+
+#: includes/admin-support.php:66
+msgid "child theme"
+msgstr "پوسته فرزند"
+
+#: includes/admin-waitlist.php:63
+msgid "List"
+msgstr "فهرست"
+
+#: includes/admin-waitlist.php:65
+msgid "Emails"
+msgstr "ایمیل‌ها"
+
+#: includes/admin-waitlist.php:72
+msgid "Bulk Actions"
+msgstr "اقدام گروهی"
+
+#: includes/admin-waitlist.php:73
+#: includes/templates/admin-product-attributes-gallery.php:115
+#: includes/templates/admin-product-attributes-gallery.php:143
+#: includes/templates/admin-product-attributes-gallery.php:157
+#: includes/templates/admin-product-video-gallery.php:25
+msgid "Delete"
+msgstr "حذف"
+
+#: includes/admin-waitlist.php:74
+msgid "Export"
+msgstr "برون ریزی"
+
+#: includes/admin-waitlist.php:77
+msgid "Filter by Mail sent:"
+msgstr "فیلتر بر اساس نامه ارسال شده:"
+
+#: includes/admin-waitlist.php:79
+msgid "All"
+msgstr "همگی"
+
+#: includes/admin-waitlist.php:83
+msgid "by Product ID:"
+msgstr "شناسه محصول: "
+
+#: includes/admin-waitlist.php:88
+msgid "items"
+msgstr "موارد"
+
+#: includes/admin-waitlist.php:104
+msgid "of"
+msgstr "از"
+
+#: includes/admin-waitlist.php:126
+msgid "Email"
+msgstr "ایمیل"
+
+#: includes/admin-waitlist.php:127 includes/admin-wishlist.php:87
+#: includes/module-wishlist.php:331
+msgid "Product"
+msgstr "محصول"
+
+#: includes/admin-waitlist.php:128
+msgid "Date added"
+msgstr "تاریخ اضافه شد"
+
+#: includes/admin-waitlist.php:129
+msgid "Mail sent"
+msgstr "ایمیل ارسال شد"
+
+#: includes/admin-waitlist.php:140
+msgid "ID"
+msgstr "شناسه"
+
+#: includes/admin-waitlist.php:149
+msgid "No Items"
+msgstr "بدون گزینه"
+
+#: includes/admin-waitlist.php:161
+msgid "Waitlist Settings"
+msgstr "تنظیمات علاقه مندی ها"
+
+#: includes/admin-waitlist.php:164
+msgid "Enable waitlist for out of stock products"
+msgstr "لیست انتظار را برای محصولات موجود در انبار فعال کنید"
+
+#: includes/admin-waitlist.php:165
+msgid "Introduction"
+msgstr "مقدمه"
+
+#: includes/admin-waitlist.php:166
+msgid "Email placeholder"
+msgstr "محل نگهدارنده ایمیل"
+
+#: includes/admin-waitlist.php:167
+msgid "Button label"
+msgstr "متن دکمه"
+
+#: includes/admin-waitlist.php:168
+msgid "Consent label"
+msgstr "برچسب رضایت"
+
+#: includes/admin-waitlist.php:170
+msgid "Read more label"
+msgstr "برچسب ادامه مطلب"
+
+#: includes/admin-waitlist.php:181
+msgid ""
+"Available placeholders: {site_name}, {site_url}, {product_title}, "
+"{product_sku}, {product_link}, {customer_email}"
+msgstr ""
+"متغیرهای موجود: {site_name}، {site_url}، {product_title}، {product_sku}، "
+"{product_link}، {customer_email}"
+
+#: includes/admin-waitlist.php:193
+msgid "Waitlist Emails"
+msgstr "ایمیل های لیست انتظار"
+
+#: includes/admin-waitlist.php:196
+msgid "From Email"
+msgstr "ایمیل فرستنده"
+
+#: includes/admin-waitlist.php:196
+msgid ""
+"Please add a valid from email that ends with your domain to prevent spam "
+"mails."
+msgstr ""
+"لطفاً برای جلوگیری از ارسال ایمیل‌های هرزنامه، یک ایمیل معتبر اضافه کنید که به "
+"دامنه شما ختم می‌شود."
+
+#: includes/admin-waitlist.php:197
+msgid "From Name"
+msgstr "نام فرستنده"
+
+#: includes/admin-waitlist.php:197
+msgid "Please add a valid from name to prevent spam mails."
+msgstr "لطفاً برای جلوگیری از ارسال نامه‌های هرزنامه، یک نام معتبر اضافه کنید."
+
+#: includes/admin-waitlist.php:197
+msgid "To improve the deliverability of these mails"
+msgstr "برای بهبود قابلیت تحویل این نامه‌ها"
+
+#: includes/admin-waitlist.php:197
+msgid "we recommend you install the"
+msgstr "پیشنهاد میکنید نصب کنید "
+
+#: includes/admin-waitlist.php:197
+msgid "WP Mail SMTP"
+msgstr "تنظیمات SMTP"
+
+#: includes/admin-waitlist.php:197
+msgid "plugin."
+msgstr " افزونه."
+
+#: includes/admin-waitlist.php:201
+msgid "Notification recipient"
+msgstr "گیرنده اعلان"
+
+#: includes/admin-waitlist.php:201
+msgid "Please add a valid recipient email for admin notification."
+msgstr "لطفاً یک ایمیل گیرنده معتبر برای اطلاع رسانی مدیر اضافه کنید."
+
+#: includes/admin-waitlist.php:201
+msgid ""
+"Enter recipient that will receive admin notification. Site Administration "
+"Email is default value."
+msgstr ""
+"گیرنده ای را وارد کنید که اعلان مدیر را دریافت می کند. ایمیل مدیریت سایت "
+"مقدار پیش فرض است."
+
+#: includes/admin-waitlist.php:205
+msgid "Enable automatic emails when the item is back in stock"
+msgstr "وقتی کالا در انبار موجود است، ایمیل‌های خودکار را فعال کنید"
+
+#: includes/admin-waitlist.php:206 includes/admin-waitlist.php:227
+#: includes/admin-waitlist.php:248
+msgid "Email Subject"
+msgstr "موضوع رایانامه"
+
+#: includes/admin-waitlist.php:207 includes/admin-waitlist.php:228
+#: includes/admin-waitlist.php:249
+msgid "Email Content"
+msgstr "محتوای ایمیل"
+
+#: includes/admin-waitlist.php:226
+msgid ""
+"Enable mails to the store owner when a customer signs up to the waitlist"
+msgstr ""
+"هنگامی که مشتری در لیست انتظار ثبت نام می کند، ایمیل ها را به مالک فروشگاه "
+"فعال کنید"
+
+#: includes/admin-waitlist.php:247
+msgid "Enable mail to the customer when they sign up to a waitlist"
+msgstr ""
+"وقتی مشتری در لیست انتظار ثبت نام می کند، ایمیل را برای مشتری فعال کنید"
+
+#: includes/admin-waitlist.php:277
+msgid ""
+"Product waitlists are used to notify interested shoppers when sold-out "
+"products are back in stock. This module collects data on customers who sign "
+"up."
+msgstr ""
+"لیست انتظار محصولات برای اطلاع خریداران علاقه مند در صورت بازگشت محصولات "
+"فروخته شده در انبار استفاده می شود. این ماژول داده های مشتریانی را که ثبت "
+"نام می کنند جمع آوری می کند."
+
+#: includes/admin-wishlist.php:44
+msgid "Wishlist Reports"
+msgstr "گزارش های علاقه مندی ها"
+
+#: includes/admin-wishlist.php:47
+msgid "Wishlist Settings"
+msgstr "تنظیمات علاقه مندی ها"
+
+#: includes/admin-wishlist.php:51
+msgid ""
+"Note: You will need to create a wishlist page and include this shortcode on "
+"it - [commercegurus_wishlist]"
+msgstr ""
+"توجه: شما باید یک صفحه لیست علاقه ایجاد کنید و این کد کوتاه را در آن قرار "
+"دهید - [commercegurus wishlist]"
+
+#: includes/admin-wishlist.php:53
+msgid "Enable wishlist functionality"
+msgstr "فعال کردن قابلیت لیست علاقه مندی ها"
+
+#: includes/admin-wishlist.php:54
+msgid "&ldquo;Add to wishlist&rdquo; text"
+msgstr "‏&ldquo;افزودن به لیست علاقه مندی ها &rdquo; متن"
+
+#: includes/admin-wishlist.php:55
+msgid "&ldquo;Product added&rdquo; text"
+msgstr "‏&ldquo;محصول اضافه شد &rdquo; متن"
+
+#: includes/admin-wishlist.php:56
+msgid "&ldquo;Browse wishlist&rdquo; text"
+msgstr "‏&ldquo;مرور لیست علاقه مندی ها &rdquo; متن"
+
+#: includes/admin-wishlist.php:57
+msgid "Wishlist page"
+msgstr "صفحه لیست علاقمندی"
+
+#: includes/admin-wishlist.php:67
+msgid ""
+"Choose your wishlist page and set it to be full width. Ensure that it is "
+"excluded from any caching solutions."
+msgstr ""
+"صفحه لیست علاقه مندی های خود را انتخاب کنید و آن را به عرض کامل تنظیم کنید. "
+"اطمینان حاصل کنید که از هر راه حل ذخیره سازی حذف شده است."
+
+#: includes/admin-wishlist.php:78
+msgid "Total wishlists"
+msgstr "همه علاقه مندی ها"
+
+#: includes/admin-wishlist.php:80
+msgid "How many wishlists have been created."
+msgstr "چه تعداد لیست علاقه ایجاد شده است."
+
+#: includes/admin-wishlist.php:84
+msgid "Most popular products"
+msgstr "محبوب ترین محصولات"
+
+#: includes/admin-wishlist.php:85
+msgid "Discover which products are most wished for in your catalog."
+msgstr "کشف کنید کدام محصولات در کاتالوگ شما بیشترین آرزو را دارند."
+
+#: includes/admin-wishlist.php:106
+msgid "No products"
+msgstr "محصولی وجود ندارد"
+
+#: includes/admin-wishlist.php:118
+msgid ""
+"A wishlist allows shoppers to create personalized collections of products "
+"they want to buy and save them for future reference."
+msgstr ""
+"لیست علاقه مندی ها به خریداران اجازه می دهد مجموعه های شخصی سازی شده از "
+"محصولاتی را که می خواهند بخرند ایجاد کنند و آنها را برای مراجعات بعدی ذخیره "
+"کنند."
+
+#: includes/class-commercegurus-commercekit.php:97
+msgid ""
+"CommerceGurus CommerceKit requires WooCommerce 4.0+ to be activated to work."
+msgstr ""
+"‏CommerceGurus CommerceKit برای کار به WooCommerce 4.0+ نیاز دارد که فعال شود."
+
+#: includes/class-commercegurus-commercekit.php:102
+#, php-format
+msgid ""
+"CommerceGurus CommerceKit - The minimum WooCommerce version required for "
+"this plugin is %1$s. You are running %2$s."
+msgstr ""
+"‏CommerceGurus CommerceKit - حداقل نسخه WooCommerce مورد نیاز برای این افزونه "
+"%1$s است. شما %2$s را اجرا می کنید."
+
+#: includes/class-commercegurus-commercekit.php:141
+msgid "The domain name to check."
+msgstr "نام دامنه برای چک کردن ."
+
+#: includes/commercegurus-attributes-gallery-functions.php:54
+#: includes/commercegurus-attributes-gallery-functions.php:87
+#: includes/commercegurus-gallery-functions.php:54
+#: includes/commercegurus-gallery-functions.php:87
+#: includes/commercegurus-video-gallery-functions.php:157
+msgid "click to zoom-in"
+msgstr "کلیک برای زوم کردن"
+
+#: includes/module-ajax-search.php:148
+msgid "Product Category"
+msgstr "دسته بندی محصولات"
+
+#: includes/module-ajax-search.php:151
+msgid "Product Tag"
+msgstr "برچسب محصول"
+
+#: includes/module-ajax-search.php:202
+msgid "Post"
+msgstr "نوشته"
+
+#: includes/module-ajax-search.php:204
+msgid "Page"
+msgstr "صفحه"
+
+#: includes/module-attribute-swatches.php:145
+#: includes/templates/product-attribute-swatches.php:18
+msgid "Out of stock"
+msgstr "نا موجود"
+
+#: includes/module-attribute-swatches.php:146
+#: includes/module-attribute-swatches.php:212
+msgid "No selection"
+msgstr "انتخاب نشده"
+
+#: includes/module-attribute-swatches.php:432
+#: includes/module-order-bump.php:198 includes/module-wishlist.php:419
+msgid "Error on adding to cart."
+msgstr "خطا هنگام اضافه کردن به سبد خرید."
+
+#: includes/module-attribute-swatches.php:441
+#: includes/module-order-bump.php:219 includes/module-wishlist.php:433
+msgid "Sucessfully added to cart."
+msgstr "با موفقیت به سبد خرید اضافه شد ."
+
+#: includes/module-attribute-swatches.php:510
+#: includes/module-sticky-atc-bar.php:62
+#: includes/templates/commercekit-tabs.php:58
+#: includes/templates/commercekit-tabs.php:93
+msgid "Add to cart"
+msgstr "افزودن به سبد خرید"
+
+#: includes/module-countdown-timer.php:25
+msgid "HRS"
+msgstr "ساعت"
+
+#: includes/module-countdown-timer.php:26
+msgid "MINS"
+msgstr "‏MINS"
+
+#: includes/module-countdown-timer.php:27
+msgid "SECS"
+msgstr "ثانیه ها"
+
+#: includes/module-countdown-timer.php:30
+msgid "days"
+msgstr "روز "
+
+#: includes/module-countdown-timer.php:31
+msgid "hours"
+msgstr "ساعت ­ها"
+
+#: includes/module-countdown-timer.php:32
+msgid "minutes"
+msgstr "دقایق"
+
+#: includes/module-countdown-timer.php:33
+msgid "seconds"
+msgstr "ثانیه‌"
+
+#: includes/module-free-shipping-notification.php:124
+msgid "Continue Shopping"
+msgstr "خرید را ادامه دهید"
+
+#: includes/module-order-bump.php:325
+msgid "CommerceKit Order Bump"
+msgstr "برجستگی سفارش CommerceKit"
+
+#: includes/module-order-bump.php:368
+msgid "Clicked products:"
+msgstr "محصولات کلیک شده :"
+
+#: includes/module-order-bump.php:372
+msgid "Purchased products:"
+msgstr "محصولات خریداری شده:"
+
+#: includes/module-size-guide.php:19
+msgid "Size Guide"
+msgstr "راهنما اندازه"
+
+#: includes/module-size-guide.php:53
+msgid "Product categories"
+msgstr "دسته بندی محصولات"
+
+#: includes/module-size-guide.php:54 includes/templates/search.php:22
+#: includes/templates/search.php:242
+msgid "Products"
+msgstr "محصولات"
+
+#: includes/module-size-guide.php:77
+msgid "Product categories:"
+msgstr "دسته بندی محصولات:"
+
+#: includes/module-size-guide.php:77
+msgid "Select category"
+msgstr "انتخاب دسته بندی"
+
+#: includes/module-size-guide.php:97
+msgid "Products:"
+msgstr "محصولات:"
+
+#: includes/module-size-guide.php:97
+msgid "Select product"
+msgstr "محصول را انتخاب کنید"
+
+#: includes/module-sticky-atc-bar.php:60
+#: includes/templates/commercekit-tabs.php:56
+#: includes/templates/commercekit-tabs.php:91
+msgid "Sign up"
+msgstr " ثبت نام "
+
+#: includes/module-waitlist.php:19
+msgid "Error on submitting for waiting list."
+msgstr "خطا در ارسال لیست انتظار."
+
+#: includes/module-waitlist.php:357
+msgid ""
+"Select your desired options and click on the \"Get notified\" button to be "
+"alerted when new stock arrives."
+msgstr ""
+"گزینه های مورد نظر خود را انتخاب کرده و بر روی دکمه \"دریافت اطلاع رسانی\" "
+"کلیک کنید تا در صورت رسیدن موجودی جدید به شما هشدار داده شود."
+
+#: includes/module-waitlist.php:366
+msgid "sold out?"
+msgstr "فروخته شده ؟"
+
+#: includes/module-wishlist.php:19 includes/module-wishlist.php:139
+msgid "Error on submitting for wishlist list."
+msgstr "خطا در ارسال لیست علاقه مندی ها."
+
+#: includes/module-wishlist.php:173
+msgid "Product removed"
+msgstr "محصول حذف شد"
+
+#: includes/module-wishlist.php:332
+msgid "Price"
+msgstr "قیمت"
+
+#: includes/module-wishlist.php:333
+msgid "Stock Status"
+msgstr "وضعیت سهام"
+
+#: includes/module-wishlist.php:375
+msgid "In Stock"
+msgstr "موجود"
+
+#: includes/module-wishlist.php:375
+msgid "Out of Stock"
+msgstr "نا موجود "
+
+#: includes/module-wishlist.php:380
+msgid "Add to Cart"
+msgstr "افزودن به سبد خرید"
+
+#: includes/module-wishlist.php:382
+msgid "Select Options"
+msgstr "گزینه مورد نظر را انتخاب کنید"
+
+#: includes/module-wishlist.php:385
+msgid "View Product"
+msgstr "مشاهده محصول"
+
+#: includes/module-wishlist.php:394
+msgid "No products in your wishlist"
+msgstr "هیچ محصولی در لیست علاقه مندی ها نیست"
+
+#: includes/module-wishlist.php:474 includes/module-wishlist.php:491
+msgid "My wishlist"
+msgstr "لیست علاقه مندی های من"
+
+#: includes/modules.php:96
+msgid "Search products..."
+msgstr "جستجو محصولات..."
+
+#: includes/modules.php:100
+msgid "Other results"
+msgstr "نتایج دیگر"
+
+#: includes/modules.php:101
+msgid "No results"
+msgstr "بدون نتیجه"
+
+#: includes/modules.php:102
+msgid "View all results"
+msgstr "نمایش همه نتیجه"
+
+#: includes/modules.php:120
+msgid "Quick add"
+msgstr "اضافه کردن سریع"
+
+#: includes/modules.php:121
+msgid "More options"
+msgstr "گزینه های بیشتر"
+
+#: includes/modules.php:128
+#: includes/templates/admin-product-attributes-gallery.php:95
+#: includes/templates/admin-product-attributes-gallery.php:160
+msgid "Gallery"
+msgstr "گالری"
+
+#: includes/modules.php:133
+msgid ""
+"Get <strong>free shipping</strong> for orders over {free_shipping_amount}"
+msgstr ""
+"دریافت <strong>ارسال رایگان</strong> برای سفارش‌های بیش از "
+"{free_shipping_amount}"
+
+#: includes/modules.php:134
+msgid "👋 You're {remaining} away from free shipping."
+msgstr "👋 شما {موجود} از ارسال رایگان فاصله دارید."
+
+#: includes/modules.php:135
+msgid "Your order qualifies for free shipping! 🥳"
+msgstr "سفارش شما واجد شرایط ارسال رایگان است! 🥳"
+
+#: includes/modules.php:139
+msgid "Size guide"
+msgstr "راهنمای سایزراهنمای اندازه"
+
+#: includes/modules.php:148
+#, php-format
+msgid "Only %s items left in stock!"
+msgstr "فقط %s مورد در انبار باقی مانده است!"
+
+#: includes/modules.php:151
+#, php-format
+msgid "Less than %s items left!"
+msgstr "کمتر از %s مورد باقی مانده است!"
+
+#: includes/modules.php:154
+msgid "This item is selling fast!"
+msgstr "این کالا به سرعت در حال فروش است!"
+
+#: includes/modules.php:158
+msgid "Notify me when the item is back in stock."
+msgstr "وقتی کالا در انبار برگشت به من اطلاع دهید."
+
+#: includes/modules.php:159
+msgid "Enter your email address..."
+msgstr "آدرس ایمیل خود را وارد کنید..."
+
+#: includes/modules.php:160
+msgid "Join waiting list"
+msgstr "به لیست انتظار بپیوندید"
+
+#: includes/modules.php:161
+msgid "I consent to being contacted by the store owner"
+msgstr "من با تماس مالک فروشگاه موافقت می کنم"
+
+#: includes/modules.php:162
+msgid "You have been added to the waiting list for this product!"
+msgstr "شما به لیست انتظار این محصول اضافه شده اید!"
+
+#: includes/modules.php:163
+msgid "Get notified"
+msgstr "مطلع شوید"
+
+#: includes/modules.php:168
+msgid "A product you are waiting for is back in stock!"
+msgstr "محصولی که منتظرش هستید دوباره در انبار موجود است!"
+
+#: includes/modules.php:169
+msgid ""
+"Hi,\r\n"
+"{product_title} is now back in stock on {site_name}.\r\n"
+"You have been sent this email because your email address was registered in a "
+"waiting list for this product.\r\n"
+"If you would like to purchase {product_title}, please visit the following "
+"link:\r\n"
+"{product_link}"
+msgstr ""
+"سلام،\r\n"
+"‏{product_title} اکنون در {site_name} موجود است.\r\n"
+"این ایمیل برای شما ارسال شده است زیرا آدرس ایمیل شما در لیست انتظار برای این "
+"محصول ثبت شده است.\r\n"
+"اگر مایل به خرید {product_title} هستید، لطفاً به پیوند زیر مراجعه کنید:\r\n"
+"‏{product_link}"
+
+#: includes/modules.php:171
+msgid "You have a new waiting list request on {site_name}"
+msgstr "شما یک درخواست لیست انتظار جدید در {site_name} دارید"
+
+#: includes/modules.php:172
+msgid ""
+"Hi,\r\n"
+"You got a waiting list request from {site_name} ({site_url}) for the "
+"following:\r\n"
+"Customer email: {customer_email}\r\n"
+"Product Name: {product_title}, SKU: {product_sku}\r\n"
+"Product link: {product_link}"
+msgstr ""
+"سلام،\r\n"
+"شما یک درخواست لیست انتظار از {site_name} ({site_url}) برای موارد زیر دریافت "
+"کردید:\r\n"
+"ایمیل مشتری: {customer_email}\r\n"
+"نام محصول: {product_title}، SKU: {product_sku}\r\n"
+"پیوند محصول: {product_link}"
+
+#: includes/modules.php:174
+msgid "We have received your waiting list request"
+msgstr "ما درخواست لیست انتظار شما را دریافت کرده ایم"
+
+#: includes/modules.php:175
+msgid ""
+"Hi,\r\n"
+"We have received your waiting list request from {site_name} for the "
+"following:\r\n"
+"Product Name: {product_title}, SKU: {product_sku}\r\n"
+"Product link: {product_link}\r\n"
+"\r\n"
+"We will send you an email once this item is back in stock."
+msgstr ""
+"سلام،\r\n"
+"ما درخواست لیست انتظار شما را از {site_name} برای موارد زیر دریافت کردیم:\r\n"
+"نام محصول: {product_title}، SKU: {product_sku}\r\n"
+"پیوند محصول: {product_link}\r\n"
+"‏\r\n"
+"به محض اینکه این کالا در انبار موجود شد، یک ایمیل برای شما ارسال خواهیم کرد."
+
+#: includes/modules.php:178
+msgid "Add to wishlist"
+msgstr "افزودن به علاقه‌مندی‌ها"
+
+#: includes/modules.php:179
+msgid "Product added"
+msgstr "محصول اضافه شد"
+
+#: includes/modules.php:180
+msgid "Browse wishlist"
+msgstr "فهرست علاقه مندی ها را مرور کنید"
+
+#: includes/modules.php:243
+msgid ""
+"You will need to first disable the YITH Wishlist plugin in order to use the "
+"CommerceKit Wishlist feature."
+msgstr ""
+"برای استفاده از ویژگی CommerceKit Wishlist ابتدا باید افزونه YITH Wishlist "
+"را غیرفعال کنید."
+
+#: includes/pdp-attributes-gallery-grid.php:101
+#: includes/pdp-attributes-gallery-scroll.php:92
+#: includes/pdp-attributes-gallery-swiper.php:91
+#: includes/pdp-gallery-grid.php:80 includes/pdp-gallery-scroll.php:72
+#: includes/pdp-gallery-swiper.php:82
+msgid "Awaiting product image"
+msgstr "تصویر محصول در انتظار"
+
+#: includes/pdp-attributes-gallery-grid.php:714
+#: includes/pdp-attributes-gallery-grid.php:768
+#: includes/pdp-gallery-grid.php:597
+msgid "Load more images"
+msgstr "بارگذاری بیشتر تصاویر"
+
+#: includes/pdp-attributes-gallery-grid.php:714
+#: includes/pdp-attributes-gallery-grid.php:768
+#: includes/pdp-gallery-grid.php:597
+msgid "Show less images"
+msgstr "نمایش تصاویر کمتر"
+
+#: includes/templates/admin-attribute-swatches.php:21
+msgid "Button"
+msgstr "دكمه"
+
+#: includes/templates/admin-attribute-swatches.php:21
+msgid "Color"
+msgstr "رنگ"
+
+#: includes/templates/admin-attribute-swatches.php:21
+msgid "Image"
+msgstr "عکس"
+
+#: includes/templates/admin-attribute-swatches.php:32
+msgid "Add Image to Attribute Swatches"
+msgstr "افزودن تصویر به نمونه های ویژگی"
+
+#: includes/templates/admin-attribute-swatches.php:32
+msgid "Add to Attribute Swatches"
+msgstr "به نمونه های ویژگی اضافه کنید"
+
+#: includes/templates/admin-attribute-swatches.php:43
+msgid "Add image"
+msgstr "افزودن تصویر"
+
+#: includes/templates/admin-attribute-swatches.php:58
+msgid "Hide this attribute in the product loop"
+msgstr "این ویژگی را در حلقه محصول پنهان کنید"
+
+#: includes/templates/admin-attribute-swatches.php:68
+msgid "Show on product loop"
+msgstr "نمایش در حلقه محصول"
+
+#: includes/templates/admin-attribute-swatches.php:72
+msgid "Enable attribute swatches"
+msgstr "نمونه های ویژگی را فعال کنید"
+
+#: includes/templates/admin-product-attributes-gallery.php:18
+msgid "Global Gallery"
+msgstr "گالری سراسری"
+
+#: includes/templates/admin-product-attributes-gallery.php:30
+msgid "Add a gallery to:"
+msgstr "اضافه کردن یک گالری به :"
+
+#: includes/templates/admin-product-attributes-gallery.php:35
+msgid "Global gallery"
+msgstr "گالری سراسری"
+
+#: includes/templates/admin-product-attributes-gallery.php:60
+msgid "Add gallery"
+msgstr "افزودن گالری"
+
+#: includes/templates/admin-product-attributes-gallery.php:66
+msgid "Attribute Galleries"
+msgstr "گالری های ویژگی"
+
+#: includes/templates/admin-product-attributes-gallery.php:112
+#: includes/templates/admin-product-attributes-gallery.php:158
+#: includes/templates/admin-product-attributes-gallery.php:164
+#: includes/templates/admin-product-video-gallery.php:34
+msgid "Remove"
+msgstr "پاک کردن"
+
+#: includes/templates/admin-product-attributes-gallery.php:115
+#: includes/templates/admin-product-attributes-gallery.php:157
+msgid "Add Images to Product Gallery"
+msgstr "افزودن عکس به گالری محصولات"
+
+#: includes/templates/admin-product-attributes-gallery.php:115
+#: includes/templates/admin-product-attributes-gallery.php:143
+#: includes/templates/admin-product-attributes-gallery.php:157
+#: includes/templates/admin-product-video-gallery.php:25
+msgid "Add to gallery"
+msgstr "اضافه کردن به گالری"
+
+#: includes/templates/admin-product-attributes-gallery.php:115
+#: includes/templates/admin-product-attributes-gallery.php:157
+msgid "Delete image"
+msgstr "حذف تصویر"
+
+#: includes/templates/admin-product-attributes-gallery.php:115
+#: includes/templates/admin-product-attributes-gallery.php:157
+msgid "Add images"
+msgstr "افزودن تصاویر"
+
+#: includes/templates/admin-product-attributes-gallery.php:140
+#: includes/templates/admin-product-video-gallery.php:22
+msgid "Video"
+msgstr "ویدیو"
+
+#: includes/templates/admin-product-attributes-gallery.php:141
+#: includes/templates/admin-product-video-gallery.php:23
+msgid "Youtube, Vimeo or video url (.mp4)"
+msgstr "یوتیوب , Vimeo لینک ویدیو  (.mp4)"
+
+#: includes/templates/admin-product-attributes-gallery.php:141
+#: includes/templates/admin-product-video-gallery.php:23
+msgid "Youtube, Vimeo or video url (.mp4 format only) allowed."
+msgstr "یوتیوب، Vimeo یا URL ویدیو (فقط با فرمت mp4) مجاز است."
+
+#: includes/templates/admin-product-attributes-gallery.php:142
+#: includes/templates/admin-product-video-gallery.php:24
+msgid "Autoplay video?"
+msgstr "پخش خودکار ویدیو?"
+
+#: includes/templates/admin-product-attributes-gallery.php:143
+#: includes/templates/admin-product-video-gallery.php:25
+msgid "Browse from Media Library"
+msgstr "از کتابخانه رسانه مرور کنید"
+
+#: includes/templates/admin-product-attributes-gallery.php:143
+msgid "Add video to Attributes Gallery"
+msgstr "ویدیو را به گالری ویژگی ها اضافه کنید"
+
+#: includes/templates/admin-product-attributes-gallery.php:143
+#: includes/templates/admin-product-video-gallery.php:25
+msgid "Delete video"
+msgstr "حذف ویدیو"
+
+#: includes/templates/admin-product-attributes-gallery.php:144
+#: includes/templates/admin-product-video-gallery.php:26
+msgid "Insert or replace the current video URL."
+msgstr "‏URL ویدیوی فعلی را درج یا جایگزین کنید."
+
+#: includes/templates/admin-product-attributes-gallery.php:161
+msgid "Are you sure, you want to delete this Gallery?"
+msgstr "آیا مطمئنید که میخواهید این گالری را پاک کنید؟"
+
+#: includes/templates/admin-product-attributes-gallery.php:162
+#: includes/templates/admin-product-video-gallery.php:32
+msgid "CommerceKit Product Gallery Video"
+msgstr "‏CommerceKit ویدیو گالری محصول"
+
+#: includes/templates/admin-product-attributes-gallery.php:163
+#: includes/templates/admin-product-video-gallery.php:33
+msgid "Close"
+msgstr "بستن"
+
+#: includes/templates/admin-product-attributes-gallery.php:165
+#: includes/templates/admin-product-video-gallery.php:35
+msgid "Save Video"
+msgstr "ذخیره ویدیو"
+
+#: includes/templates/admin-product-video-gallery.php:25
+msgid "Add video to Product Gallery"
+msgstr "اضافه کردن ویدیو به گالری محصول"
+
+#: includes/templates/product-attribute-swatches.php:42
+msgid "Clear"
+msgstr "پاکسازی"
+
+#: includes/templates/search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای : %s"
+
+#: includes/templates/search.php:23
+msgid "Contents"
+msgstr "محتواها"
